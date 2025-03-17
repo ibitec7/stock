@@ -1,7 +1,9 @@
 yfinance
 polars
-BeautifulSoup
 httpx
+selenium
 seaborn
 matplotlib
 numpy
+bs4
+webdriver_manager
