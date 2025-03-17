@@ -1,0 +1,7 @@
+yfinance
+polars
+BeautifulSoup
+httpx
+seaborn
+matplotlib
+numpy
