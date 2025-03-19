@@ -6,4 +6,9 @@ seaborn
 matplotlib
 numpy
 bs4
+pygooglenews
+urlutils
+gptqmodel
+optimum
+transformers
 webdriver_manager
