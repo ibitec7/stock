@@ -1,0 +1,50 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia to open quantum computing lab, CEO says",
+            "event_type": "Corporate Announcement",
+            "summary": "NVIDIA announced it will establish a quantum computing laboratory. The announcement is aimed at expanding its presence in the emerging field of quantum computing.",
+            "impact": "High",
+            "rationale": "This event highlights NVIDIA's strategic move into the advanced technology sector, which could have significant long-term implications for both the company and the tech industry."
+        },
+        {
+            "headline": "Nvidia to invest billions in US chip production over four years, FT reports",
+            "event_type": "Investment Announcement",
+            "summary": "According to a report by The Financial Times (FT), NVIDIA plans to invest significant amounts in manufacturing facilities for chips within the United States over an extended period.",
+            "impact": "High",
+            "rationale": "This investment strategy indicates NVIDIA's commitment to regional production, which could affect market dynamics and competition."
+        },
+        {
+            "headline": "Nvidia CEO Predicts AI Spending Will Increase 300%+ in 3 Years - IO Fund",
+            "event_type": "Market Forecast",
+            "summary": "The CEO of NVIDIA forecasts a substantial increase in artificial intelligence (AI) spending within the next three years, predicting an increase of over 300%. This could be pivotal for both NVIDIA and its customers.",
+            "impact": "High",
+            "rationale": "This forecast underscores the growing importance of AI technology and indicates significant investment opportunities for companies focusing on AI solutions."
+        },
+        {
+            "headline": "Nvidia to spend hundreds of billions in U.S. during Trump's term - Axios",
+            "event_type": "Corporate Announcement",
+            "summary": "The article from Axios details NVIDIA's commitment to investing hundreds of billions of dollars in the United States during President Donald Trump's tenure.",
+            "impact": "High",
+            "rationale": "This announcement signals a major shift in corporate investment strategies and could impact regional economies, particularly if these investments lead to job creation."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia Aims to Expand AI Efforts Beyond Chips - PYMNTS.com",
+            "event_type": "Business Expansion Strategy",
+            "summary": "PYMNTS reports that NVIDIA is planning to extend its focus from just chips to encompass broader applications of artificial intelligence (AI).",
+            "impact": "Medium",
+            "rationale": "This indicates a shift in the company's strategic direction and could influence how AI technology is utilized across various sectors."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "I really wanted to like the Nvidia GeForce RTX 5070, but it broke my heart and it shouldn't have to break yours, too - TechRadar",
+            "event_type": "Product Review/Feedback",
+            "summary": "The review from TechRadar highlights a negative experience with NVIDIA's latest graphics card, raising questions about its performance or quality compared to the expectations.",
+            "impact": "Low",
+            "rationale": "While this review may influence potential buyers' decisions, it does not have a significant impact on the company\u2019s overall market position."
+        }
+    ]
+}

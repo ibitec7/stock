@@ -1,0 +1,36 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia patches high severity GeForce Experience vulnerabilities - BleepingComputer",
+            "event_type": "Security Update",
+            "summary": "NVIDIA has released a patch for severe security vulnerabilities in its GeForce Experience software.",
+            "impact": "High",
+            "rationale": "This highlights the importance of security measures and indicates that NVIDIA is actively addressing potential threats to user data and system stability."
+        },
+        {
+            "headline": "Nvidia RTX A6000 GPU launches with 2x performance - Develop3D",
+            "event_type": "Product Release/Improvement",
+            "summary": "NVIDIA has released a new high-performance graphics card, the RTX A6000, which offers double the performance of its predecessor.",
+            "impact": "High",
+            "rationale": "This event showcases NVIDIA's continued investment in gaming hardware and could influence consumer purchasing decisions for professional-grade GPUs."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA wants to make video calls better with AI - Engadget",
+            "event_type": "Product Enhancement",
+            "summary": "NVIDIA is developing an AI-based solution to improve the quality and performance of video calls.",
+            "impact": "Medium",
+            "rationale": "This event demonstrates NVIDIA's ongoing focus on enhancing consumer experiences, which could lead to significant improvements in communication technology."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "Nvidia delays the launch of the RTX 3070 to October 29 so you can actually buy one - PC Gamer",
+            "event_type": "Product Delay/Rescheduling",
+            "summary": "The release date for the NVIDIA RTX 3070 graphics card has been pushed back from its original schedule.",
+            "impact": "Low",
+            "rationale": "This event is a minor adjustment to meet market demands and ensure supply alignment with customer expectations."
+        }
+    ]
+}

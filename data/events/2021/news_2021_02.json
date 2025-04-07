@@ -1,0 +1,21 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia Attempts To Improve Gaming Card Supply With Two Big Actions - Forbes",
+            "event_type": "Market Intervention",
+            "summary": "NVIDIA plans to release stocks of older GPUs like RTX 2060, GTX 1050 Ti to help stabilize the GPU shortage issue.",
+            "impact": "High",
+            "rationale": "This event addresses a critical problem in the gaming industry by providing alternative options for consumers and businesses who need gaming hardware but are currently facing shortages."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA Launches Dedicated CMP HX Mining GPUs To Free Up GeForce RTX 3060 For Gamers - Hot Hardware",
+            "event_type": "Market Strategy",
+            "summary": "NVIDIA releases new mining GPUs to free up the supply of their gaming-focused RTX 3060 cards for consumer use.",
+            "impact": "Medium",
+            "rationale": "This strategic move allows NVIDIA to balance different market demands and ensure that both gaming enthusiasts and cryptocurrency miners can access the hardware they need."
+        }
+    ],
+    "low_impact_events": []
+}

@@ -1,0 +1,35 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Forget RTX 30-series. Nvidia just revealed an all-new GeForce RTX 2050 - PCWorld",
+            "event_type": "Product Launch",
+            "summary": "NVIDIA has unveiled a new entry-level graphics card, the GeForce RTX 2050, replacing the discontinued RTX 30 series.",
+            "impact": "High",
+            "rationale": "This is an important product launch that addresses market demand for more affordable gaming options."
+        },
+        {
+            "headline": "Twitter user releases video showcasing mining factory with NVIDIA GeForce RTX 3070 Founder\u2019s Edition GPUs sold on the \u201cback end\u201d - Wccftech",
+            "event_type": "Market Activity",
+            "summary": "There is evidence of illegal GPU resale activities, which can disrupt market stability and pricing.",
+            "impact": "High",
+            "rationale": "This highlights potential market manipulation and unfair competition, affecting both legitimate buyers and NVIDIA's control over product distribution."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia\u2019s RTX 2060 12GB graphics cards will not receive Founders Editions - PC Gamer",
+            "event_type": "Product Discontinuation or Change",
+            "summary": "NVIDIA has decided to discontinue the Founders Edition of its latest RTX 2060 12GB graphics card, possibly due to cost considerations.",
+            "impact": "Medium",
+            "rationale": "This could lead to price fluctuations and supply shortages for non-Founder's Edition cards."
+        },
+        {
+            "headline": "Nvidia says more graphics cards will make it to gamers in 2022, but should we believe it? - TechRadar",
+            "event_type": "Company Announcement",
+            "summary": "NVIDIA has announced plans to increase the availability of its graphics card lineup for the coming year.",
+            "impact": "Medium",
+            "rationale": "This is a forward-looking statement that could affect future market expectations and investor sentiment."
+        }
+    ],
+    "low_impact_events": []
+}

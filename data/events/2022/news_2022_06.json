@@ -1,0 +1,42 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "NVIDIA Ada Lovelace \u2018GeForce RTX 40\u2019 GPUs Power Limits Detailed: AD102 at 800W, AD103 at 450W, AD104 at 400W, AD106 at 260W",
+            "event_type": "Product Launch/Announcement",
+            "summary": "NVIDIA has released detailed power limits for the Ada Lovelace architecture GPUs including RTX 4090, RTX 4080, RTX 4070, and RTX 4060.",
+            "impact": "High",
+            "rationale": "This announcement provides critical information to consumers and hardware developers about the power consumption of upcoming NVIDIA GPUs, which is crucial for system design and thermal management."
+        },
+        {
+            "headline": "NVIDIA officially launches GeForce GTX 1630 graphics card",
+            "event_type": "Product Launch/Announcement",
+            "summary": "NVIDIA has introduced a new entry-level graphics card that targets the $150 USD segment.",
+            "impact": "High",
+            "rationale": "The launch of this low-end GPU is significant as it continues NVIDIA's strategy to offer different price points for their products, catering to various market segments."
+        },
+        {
+            "headline": "NVIDIA Launches Entry-Level GeForce GTX 1630 GPU - PC Perspective",
+            "event_type": "Product Launch/Announcement",
+            "summary": "NVIDIA has released the entry-level GeForce GTX 1630, targeting users who want a budget-friendly gaming experience.",
+            "impact": "High",
+            "rationale": "This launch is important for NVIDIA's strategy to maintain market share and provide options across various price points."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "A slight Nvidia RTX 4000 GPU delay could be on the cards - PCGamesN",
+            "event_type": "Product Delay/Announcement",
+            "summary": "There is a possibility that NVIDIA might have delayed the release of some RTX 40 series GPUs.",
+            "impact": "Medium",
+            "rationale": "A potential product delay could affect consumer expectations and sales, but it's not as critical as other announcements like new product launches."
+        },
+        {
+            "headline": "NVIDIA & AMD Gain GPU Market Share While Overall Shipments Decrease By 19% In Q1 2022, Intel\u2019s Arc Still Missing! - Wccftech",
+            "event_type": "Market Performance Update",
+            "summary": "Despite a decrease in overall shipments, NVIDIA and AMD saw an increase in their GPU market share.",
+            "impact": "Medium",
+            "rationale": "This event highlights the competitive landscape of the graphics card industry, providing insights into how different players are performing."
+        }
+    ],
+    "low_impact_events": []
+}

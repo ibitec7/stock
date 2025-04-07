@@ -1,0 +1,28 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia's H20 chip orders jump as Chinese firms adopt DeepSeek's AI models, sources say - Reuters",
+            "event_type": "Market Trends and Adoption",
+            "summary": "Sources report an increase in orders for Nvidia's H20 chips by Chinese companies due to the adoption of DeepSeek's AI models.",
+            "impact": "High",
+            "rationale": "This event highlights the growing demand for high-performance AI chips, particularly from China. It suggests a strong market trend and potential future growth opportunities."
+        },
+        {
+            "headline": "Nvidia's sales leap 78% as it starts producing more next-generation Blackwell GPUs - SiliconANGLE News",
+            "event_type": "Sales Growth and Production Increase",
+            "summary": "Nvidia reports a significant increase in its sales volume, driven by the ramp-up of production for its new generation of Blackwell GPUs.",
+            "impact": "High",
+            "rationale": "This event indicates strong demand and growth potential. It suggests that Nvidia's products are performing well and may be leading to higher revenue streams."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia Is Far From Running Out of Road - The Wall Street Journal",
+            "event_type": "Market Future Outlook",
+            "summary": "The Wall Street Journal article provides an outlook on Nvidia's future prospects in the AI chip market.",
+            "impact": "Medium",
+            "rationale": "This event gives a forward-looking perspective that can influence investor sentiment and long-term expectations for the company. It doesn't have immediate short-term financial impact but is crucial for strategic planning."
+        }
+    ],
+    "low_impact_events": []
+}

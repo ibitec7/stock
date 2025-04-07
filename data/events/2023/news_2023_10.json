@@ -1,0 +1,36 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "US Govt Speeds Up Export Restrictions for Nvidia's GPUs",
+            "event_type": "Export Ban Update",
+            "summary": "The U.S. government has accelerated its export restrictions on Nvidia\u2019s graphics processing units (GPUs), potentially impacting the company's sales in China.",
+            "impact": "High",
+            "rationale": "This event significantly affects Nvidia\u2019s revenue streams and market presence in a major growth area."
+        },
+        {
+            "headline": "Uncle Sam orders Nvidia to cease most AI chip sales in China 'immediately' - The Register",
+            "event_type": "Export Ban Update",
+            "summary": "The U.S. government has ordered Nvidia to immediately halt most of its AI chip sales to China, potentially impacting the company's revenue and market share.",
+            "impact": "High",
+            "rationale": "This event severely restricts Nvidia\u2019s ability to serve a significant market segment, leading to substantial financial implications."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "T-Systems announces Digital Twin Offering, powered by NVIDIA Omniverse",
+            "event_type": "Partnership Announcement",
+            "summary": "Telecom giant Deutsche Telekom has partnered with Nvidia to offer digital twin solutions based on its Omniverse platform.",
+            "impact": "Medium",
+            "rationale": "This partnership could expand the adoption of digital twin technology and enhance T-Systems' offerings, potentially increasing their market share."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "NVIDIA CEO Announces Aid to Employees Impacted by Israel Hamas War",
+            "event_type": "Company Policy",
+            "summary": "NVIDIA has announced support measures for its employees affected by the ongoing conflict between Israel and Hamas.",
+            "impact": "Low",
+            "rationale": "While this event affects NVIDIA\u2019s human resources, it is not expected to have a significant financial impact on the company's overall operations."
+        }
+    ]
+}

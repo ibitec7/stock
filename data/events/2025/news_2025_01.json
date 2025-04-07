@@ -1,0 +1,42 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia calls China\u2019s DeepSeek R1 model \u2018an excellent AI advancement\u2019 - CNBC",
+            "event_type": "Market Reaction and Industry Impact",
+            "summary": "CNBC reported that Nvidia positively acknowledged the advancements made by China's DeepSeek R1 model, which could influence future market trends and competitive landscape in the AI industry.",
+            "impact": "High",
+            "rationale": "This event garnered significant media attention due to its implications for Nvidia\u2019s competitors and potential shifts in the AI landscape. The recognition of a rival's progress can create both positive and negative impacts on Nvidia's stock price and business strategy."
+        },
+        {
+            "headline": "Nvidia, AI Chip Peers Tumble On DeepSeek Implications - Investor's Business Daily",
+            "event_type": "Market Reaction and Industry Impact",
+            "summary": "Investor's Business Daily reported a decline in the share prices of Nvidia\u2019s competitors due to the implications of China\u2019s DeepSeek model, which could affect future AI chip development and market conditions.",
+            "impact": "High",
+            "rationale": "This event is significant because it highlights concerns within the industry regarding potential competitive threats from new AI technologies. Such news can lead to short-term volatility in stock prices and alter investment strategies."
+        },
+        {
+            "headline": "Nvidia sheds almost $600 billion in market cap, biggest one-day loss in U.S. history - CNBC",
+            "event_type": "Market Reaction and Industry Impact",
+            "summary": "CNBC reported that Nvidia experienced a massive drop in its market capitalization due to the negative implications of DeepSeek AI advancements, setting a new record for the largest single-day loss.",
+            "impact": "High",
+            "rationale": "This event represents a significant financial blow to Nvidia and could have long-lasting effects on the company's reputation and stock performance. It also reflects broader concerns about competitive threats in the AI industry."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Healthcare Leaders, NVIDIA CEO Share AI Innovation Across the Industry - NVIDIA Blog",
+            "event_type": "Industry Collaboration and Progress",
+            "summary": "NVIDIA shared insights on how their innovations are transforming healthcare with prominent healthcare leaders, signaling advancements and potential applications in various sectors.",
+            "impact": "Medium",
+            "rationale": "This event highlights a collaboration between industry leaders to promote AI technology. While it doesn't represent immediate financial impacts, it could lead to increased adoption of NVIDIA's products and services."
+        },
+        {
+            "headline": "DeepSeek Creates Buying Opportunity for Nvidia Stock - IO Fund",
+            "event_type": "Market Reaction and Industry Impact",
+            "summary": "IO Fund observed a buying opportunity in Nvidia stock due to DeepSeek\u2019s success, potentially signaling positive future developments or innovations from the company.",
+            "impact": "Medium",
+            "rationale": "This event indicates market analysts' beliefs about potential growth prospects for Nvidia. While not immediate financial impacts, it can influence investor sentiment and lead to increased trading activity."
+        }
+    ],
+    "low_impact_events": []
+}

@@ -1,0 +1,42 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia Declares AI a \u2018Whole New Industry\u2019\u2014and Investors Agree - The Wall Street Journal",
+            "event_type": "Market Commentary",
+            "summary": "The article discusses how investors are increasingly viewing artificial intelligence as a significant industry with high growth potential.",
+            "impact": "High",
+            "rationale": "Nvidia's strong position in the AI market and its impact on investor sentiment contribute to this being one of the highest-impact events."
+        },
+        {
+            "headline": "Nvidia's stunning Ascent Has Also Made It a Giant Target - The Wall Street Journal",
+            "event_type": "Market Reaction",
+            "summary": "The article discusses how NVIDIA\u2019s stock price has risen sharply and becomes a focus for potential acquisition or competition from other tech giants.",
+            "impact": "High",
+            "rationale": "As the market reacts to NVIDIA's strong performance, it can lead to increased speculation and potentially affect broader investment strategies."
+        },
+        {
+            "headline": "Nvidia ramps up GPU production to fuel AI data center revolution - CIO Dive",
+            "event_type": "Business Strategy",
+            "summary": "The article details how NVIDIA plans to increase its GPU manufacturing capacity to support the growing demand for AI in data centers.",
+            "impact": "High",
+            "rationale": "This event showcases NVIDIA\u2019s strategic decision and can influence expectations of future market trends and competition."
+        },
+        {
+            "headline": "Nvidia Just Showed the World It's the AI King Now - Business Insider",
+            "event_type": "Market Leadership Announcement",
+            "summary": "The article emphasizes how NVIDIA has taken a dominant position in the AI industry, signaling its leadership to investors and competitors.",
+            "impact": "High",
+            "rationale": "Such announcements often lead to significant changes in market valuations and investment strategies."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA Founder and CEO Jensen Huang to Give Caltech's 130th Commencement Address - Caltech",
+            "event_type": "Company Announcement",
+            "summary": "The announcement highlights the prestigious position of NVIDIA\u2019s founder, Jensen Huang, in academic circles.",
+            "impact": "Medium",
+            "rationale": "While significant for the company and its leadership team, this event does not have a broad or immediate impact on the market."
+        }
+    ],
+    "low_impact_events": []
+}

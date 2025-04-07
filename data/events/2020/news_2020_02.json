@@ -1,0 +1,42 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia Is Giving Away A Super Limited Edition \u2018CyberPunk 2077\u2019 RTX 2080 Ti Graphics Card - Forbes",
+            "event_type": "Product Release/Announcement",
+            "summary": "NVIDIA is providing a limited edition Cyberpunk 2077-themed graphics card for free.",
+            "impact": "High",
+            "rationale": "This event attracts significant attention due to the exclusive nature and the release of a new, limited-edition product."
+        },
+        {
+            "headline": "Corsair\u2019s One Pro i200: A Compact HEDT with Intel\u2019s 10th Gen 14-Core CPU & NVIDIA\u2019s RTX 2080 Ti - AnandTech",
+            "event_type": "Product Release/Announcement",
+            "summary": "An introduction of a new computer system combining Corsair\u2019s One Pro i200 and Intel's 10th generation processor with the RTX 2080 Ti graphics card.",
+            "impact": "High",
+            "rationale": "This event highlights a high-performance setup that is likely to attract tech enthusiasts and professionals."
+        },
+        {
+            "headline": "Nvidia Ampere GPUs to feature 2x performance than the RTX 20 series, PCIe 4.0, up to 826 mm\u00b2 dies and 20 GB of VRAM - Notebookcheck.net",
+            "event_type": "Product Release/Announcement",
+            "summary": "NVIDIA is developing a new generation of Ampere GPUs with increased performance and features.",
+            "impact": "High",
+            "rationale": "This event represents significant progress in GPU technology, which can impact gaming, professional software, and other high-performance computing needs."
+        },
+        {
+            "headline": "RUMORS: NVIDIA Ampere GPU Massive Die Size, Specifications, Architecture and More! - Wccftech",
+            "event_type": "Product Release/Announcement/Rumor",
+            "summary": "NVIDIA is rumored to be developing a new generation of Ampere GPUs with larger die sizes, enhanced specifications, and architectural improvements.",
+            "impact": "High",
+            "rationale": "This event involves speculation on the future technology roadmap, which can set industry expectations and influence consumer behavior."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA will introduce at least six new GeForce GTX and RTX laptop GPUs next month - Notebookcheck.net",
+            "event_type": "Product Release/Announcement",
+            "summary": "NVIDIA is expected to release a batch of new laptop GPU models in the coming months.",
+            "impact": "Medium",
+            "rationale": "The introduction of new products can provide users with more options and enhance their computing experience, though the impact might not be as significant compared to high-performance announcements."
+        }
+    ],
+    "low_impact_events": []
+}

@@ -1,0 +1,28 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Facebook/Meta builds huge Nvidia DGX A100 system, will become 'the fastest AI supercomputer in the world'",
+            "event_type": "Business Development",
+            "summary": "Meta is building a large-scale NVIDIA DGX A100 supercomputer which they claim will be one of the fastest AI supercomputers globally.",
+            "impact": "High",
+            "rationale": "This could significantly boost Meta's AI capabilities, influencing their competitive landscape and research efforts."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia\u2019s AI-Powered DLDSR in Upcoming Game Ready Driver",
+            "event_type": "Product Release/Update",
+            "summary": "NVIDIA is introducing an AI-powered dynamic super resolution (DLDSR) feature in the upcoming game ready driver.",
+            "impact": "Medium",
+            "rationale": "This highlights a new technology from NVIDIA that could improve gaming graphics, which impacts both gamers and developers."
+        },
+        {
+            "headline": "A new Nvidia GeForce RTX 3080 GPU with 12GB of VRAM may be revealed tomorrow",
+            "event_type": "Product Release/Update",
+            "summary": "There is speculation about a new NVIDIA GeForce RTX 3080 graphics card, likely to have 12GB VRAM and potentially be announced the following day.",
+            "impact": "Medium",
+            "rationale": "The announcement of such a high-end GPU could influence the gaming market and consumer expectations for performance."
+        }
+    ],
+    "low_impact_events": []
+}

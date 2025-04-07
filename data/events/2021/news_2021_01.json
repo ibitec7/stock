@@ -1,0 +1,42 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "The great graphics card shortage of 2020 (and 2021)",
+            "event_type": "Market Disruption",
+            "summary": "A significant shortage of NVIDIA graphics cards, particularly the RTX 30 series, affecting both desktop and laptop markets.",
+            "impact": "High",
+            "rationale": "The event has caused substantial price increases and long waiting times for consumers."
+        },
+        {
+            "headline": "The NVIDIA GeForce CES 2021 Live Blog: Game On",
+            "event_type": "Product Launch Event",
+            "summary": "NVIDIA's announcement of new graphics cards and technologies during the Consumer Electronics Show in January 2021.",
+            "impact": "High",
+            "rationale": "The event typically marks a significant release cycle for NVIDIA, influencing hardware sales and adoption."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "AMD patent teases GPU chiplet tech, the great big leap over NVIDIA?!",
+            "event_type": "Industry Development",
+            "summary": "An AMD patent suggests advancements in chiplet technology that could potentially outperform current NVIDIA GPUs.",
+            "impact": "Medium",
+            "rationale": "While speculative, it raises questions about future product developments and competitive landscape."
+        },
+        {
+            "headline": "NVIDIA will no longer differentiate Max-Q and Max-P mobile GeForce graphics cards",
+            "event_type": "Product Evolution",
+            "summary": "NVIDIA simplifying its mobile GPU offerings by removing the distinction between high-performance (Max-P) and entry-level (Max-Q) models.",
+            "impact": "Medium",
+            "rationale": "This change could affect how manufacturers design products but is unlikely to significantly alter market dynamics."
+        },
+        {
+            "headline": "NVIDIA hints at RTX 30 laptop graphics launch on January 12th",
+            "event_type": "Product Announcement",
+            "summary": "NVIDIA indicated plans for a new series of RTX 30 laptops, expected to be released in the near future.",
+            "impact": "Medium",
+            "rationale": "This could lead to increased competition and potentially higher performance options for notebook users."
+        }
+    ],
+    "low_impact_events": []
+}

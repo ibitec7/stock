@@ -1,0 +1,35 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Broadcom Overtakes Qualcomm for First Place While Nvidia Scores Highest YoY Growth in 2Q20 Revenue Ranking of Global Top Ten IC Design Companies, Says TrendForce",
+            "event_type": "Market Share & Revenue Change",
+            "summary": "TrendForce reported that Broadcom has overtaken Qualcomm to hold the top position among global semiconductor companies. NVIDIA saw its revenue grow significantly year-over-year in Q2 2020.",
+            "impact": "High",
+            "rationale": "This event indicates significant changes in market dominance and financial performance within the semiconductor industry, affecting key players like Qualcomm and NVIDIA."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA RTX 3090 Founders Edition Board Passes RRA Certification - Wccftech",
+            "event_type": "Product Certification & Release",
+            "summary": "Wccftech announced that the RTX 3090 Founders Edition board has received certification from the Rapid Revalidation Alliance (RRA), indicating its readiness for release.",
+            "impact": "Medium",
+            "rationale": "This event signifies a crucial step towards the official launch of NVIDIA's next-gen gaming graphics card."
+        },
+        {
+            "headline": "NVIDIA-hardware partner and embedded computing supplier Connect Tech acquired by HEICO - Military Embedded Systems",
+            "event_type": "Corporate Acquisition & Partnership",
+            "summary": "Connect Tech, a company specializing in hardware for embedded systems, was acquired by HEICO. NVIDIA had previously partnered with Connect Tech.",
+            "impact": "Medium",
+            "rationale": "This acquisition reinforces NVIDIA\u2019s presence and capabilities within the military and embedded computing market segments."
+        },
+        {
+            "headline": "NVIDIA RTX 3090 Founders Edition Board Passes RRA Certification - Wccftech",
+            "event_type": "Product Certification & Release",
+            "summary": "Wccftech announced that the RTX 3090 Founders Edition board has received certification from the Rapid Revalidation Alliance (RRA), indicating its readiness for release.",
+            "impact": "Medium",
+            "rationale": "This event signifies a crucial step towards the official launch of NVIDIA's next-gen gaming graphics card."
+        }
+    ],
+    "low_impact_events": []
+}

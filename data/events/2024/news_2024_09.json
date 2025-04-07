@@ -1,0 +1,29 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Critical Nvidia Security Flaw Exposes Cloud AI Systems to Host Takeover - SecurityWeek",
+            "event_type": "Security Incident",
+            "summary": "A critical security flaw in Nvidia's systems has been identified, exposing cloud AI systems to potential host takeover.",
+            "impact": "High",
+            "rationale": "This event highlights a significant security vulnerability that could compromise sensitive data and operations of companies using Nvidia's cloud services."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia says it didn't receive antitrust subpoena from DOJ - CNBC",
+            "event_type": "Legal Development",
+            "summary": "Nvidia has denied receiving an antitrust subpoena from the U.S. Department of Justice (DOJ).",
+            "impact": "Medium",
+            "rationale": "This event is important as it clarifies a legal issue that could have affected Nvidia's stock and business operations."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "A Whole New World: 'GreedFall II: The Dying World' Joins GeForce NOW - NVIDIA Blog",
+            "event_type": "Product Release/Update",
+            "summary": "'GreedFall II: The Dying World' has been added to GeForce NOW by Nvidia, allowing gamers to play it on the platform.",
+            "impact": "Low",
+            "rationale": "This is a minor update and does not have a significant impact on Nvidia's overall business or stock performance."
+        }
+    ]
+}

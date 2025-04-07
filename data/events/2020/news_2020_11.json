@@ -1,0 +1,35 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Desperate Gamers Camp Out in the Pandemic for $700 GPUs",
+            "event_type": "Market Demand Surge",
+            "summary": "Gamers faced severe supply chain issues, leading to intense competition and long lines at stores for high-end graphics cards like RTX 3080 and RTX 3090.",
+            "impact": "High",
+            "rationale": "The event highlighted the significant market demand surge due to supply chain issues. It also showed how gamers are willing to go to great lengths (camping) to get their desired products."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA RTX 3060 Ti Founders Edition spotted",
+            "event_type": "Product Availability Update",
+            "summary": "The availability of NVIDIA's new RTX 3060 Ti model was confirmed, following initial reports and limited release.",
+            "impact": "Medium",
+            "rationale": "This event provided an update on the product availability and helped consumers plan their purchases or upgrades."
+        },
+        {
+            "headline": "NVIDIA fixes severe flaw in GeForce NOW cloud gaming service",
+            "event_type": "Product Quality Improvement",
+            "summary": "NVIDIA addressed a critical issue in its cloud gaming service, ensuring better performance and reliability for users.",
+            "impact": "Medium",
+            "rationale": "The event demonstrated NVIDIA's commitment to maintaining quality and improving user experience."
+        },
+        {
+            "headline": "Kohn Pedersen Fox explores Nvidia Omniverse - AEC Magazine",
+            "event_type": "Industry Collaboration",
+            "summary": "An architecture, engineering, and construction firm announced a partnership with NVIDIA\u2019s virtual reality platform, indicating potential integration of AI in the design and construction process.",
+            "impact": "Medium",
+            "rationale": "This event suggested a new avenue for technology application that could revolutionize how architects and engineers work together."
+        }
+    ],
+    "low_impact_events": []
+}

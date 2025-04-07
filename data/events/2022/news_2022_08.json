@@ -1,0 +1,35 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "AI Shows the Way: Seoul Robotics Helps Cars Move, Park on Their Own - NVIDIA Blog",
+            "event_type": "Technological Development",
+            "summary": "NVIDIA and Seoul Robotics collaborate to develop AI technology that enables autonomous cars to navigate roads and park autonomously.",
+            "impact": "High",
+            "rationale": "This event highlights significant advancements in the field of autonomous vehicles, which can have a substantial impact on both automotive industry and society."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Sensational Surrealism Astonishes This Week \u2018In the NVIDIA Studio\u2019 - NVIDIA Blog",
+            "event_type": "Artistic/Visual Innovation",
+            "summary": "NVIDIA showcases an impressive artistic piece that uses AI technology to create surreal visual experiences.",
+            "impact": "Medium",
+            "rationale": "While this event does not have a direct functional impact, it can generate interest and awareness about NVIDIA's capabilities in the realm of art and design."
+        },
+        {
+            "headline": "Omniverse DeepSearch: thanks to NVIDIA, you can stop worrying about sorting and tagging your assets - 3DVF",
+            "event_type": "Product Enhancement",
+            "summary": "NVIDIA introduces a new feature for its Omniverse platform that simplifies the process of managing and finding digital assets.",
+            "impact": "Medium",
+            "rationale": "This event can enhance user experience with NVIDIA's Omniverse platform, which could lead to increased adoption by businesses and artists."
+        },
+        {
+            "headline": "NVIDIA Broadcast support will make virtual green screens easier in OBS Studio - The Verge",
+            "event_type": "Technology Integration",
+            "summary": "OBS Studio, a popular video production tool, is integrated with NVIDIA's Broadcast service to improve the quality of virtual backgrounds.",
+            "impact": "Medium",
+            "rationale": "This event can benefit content creators by providing them with improved tools for creating engaging and professional-looking videos."
+        }
+    ],
+    "low_impact_events": []
+}

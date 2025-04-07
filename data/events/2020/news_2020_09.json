@@ -1,0 +1,35 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia RTX 3090 vs 2080 Ti: which 4K graphics card is better? - Rock Paper Shotgun",
+            "event_type": "Product Comparison",
+            "summary": "A comparison review between the Nvidia RTX 3090 and 2080 Ti to determine which one offers superior performance for 4K gaming.",
+            "impact": "High",
+            "rationale": "This event provides valuable information for consumers looking at upgrading their current graphics cards, as well as those considering a new purchase. It helps in making an informed decision."
+        },
+        {
+            "headline": "Nvidia RTX 3090 Founders Edition: It works hard, it plays hard - PCWorld",
+            "event_type": "Product Release and Performance",
+            "summary": "A detailed report on the Nvidia RTX 3090 Founders Edition highlighting its performance capabilities for high-end gaming.",
+            "impact": "High",
+            "rationale": "This event showcases the latest in GPU technology from Nvidia, which is crucial for gamers and professionals looking to achieve higher frame rates and better visual quality."
+        },
+        {
+            "headline": "Nvidia RTX 3090 Founders Edition Review Leaked: 10% Faster Than RTX 3080 - Wccftech",
+            "event_type": "Product Performance Announcement",
+            "summary": "A leaked review indicating that the Nvidia RTX 3090 Founders Edition is approximately 10% faster than its predecessor, the RTX 3080.",
+            "impact": "High",
+            "rationale": "This event reveals new performance benchmarks for a key product in Nvidia's lineup. It provides insights into future technology advancements and potential upgrades for gamers."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia announces release date for the GeForce RTX 3070 - bit-tech.net",
+            "event_type": "Product Release",
+            "summary": "The official announcement of the release date for Nvidia's latest RTX 3070 graphics card, setting expectations and plans for gamers.",
+            "impact": "Medium",
+            "rationale": "While not as groundbreaking as new flagship models like the RTX 3090 or 2080 Ti, this event still has significant implications for consumers planning to upgrade their gaming setups."
+        }
+    ],
+    "low_impact_events": []
+}

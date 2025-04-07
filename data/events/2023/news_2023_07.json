@@ -1,0 +1,34 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia reportedly mulls outsourcing partial AI GPU production to Samsung - DIGITIMES",
+            "event_type": "Business Strategy Shift",
+            "summary": "Nvidia is considering outsourcing part of its AI graphics card (GPU) production to Samsung as a strategic move.",
+            "impact": "High",
+            "rationale": "This event could significantly affect Nvidia's supply chain and manufacturing capabilities, potentially impacting their GPU prices and availability in the market."
+        },
+        {
+            "headline": "NVIDIA Doubles Down on AI Drug Discovery with $50M Recursion Investment - BioSpace",
+            "event_type": "Investment & Strategic Partnerships",
+            "summary": "Nvidia announced a significant investment in the drug discovery company Recursion, indicating its commitment to advancing AI applications in healthcare.",
+            "impact": "High",
+            "rationale": "This event demonstrates Nvidia's continued growth and expansion into new markets like healthcare, potentially leading to increased revenue streams."
+        },
+        {
+            "headline": "Nvidia acquires OmniML for AI Edge workloads - DatacenterDynamics",
+            "event_type": "Acquisition & Strategic Alliances",
+            "summary": "Nvidia acquired OmniML, a company focused on enabling AI applications at the edge of networks. This acquisition supports Nvidia's strategy to strengthen its presence in the edge computing market.",
+            "impact": "High",
+            "rationale": "This event underscores Nvidia\u2019s aggressive expansion into new markets and strategic partnerships that can drive innovation and growth."
+        },
+        {
+            "headline": "NVIDIA could mint $300 billion in AI revenues by 2027, 10 times the expected takings this year, analyst says - Business Insider",
+            "event_type": "Market Growth & Revenue Projections",
+            "summary": "Analysts project Nvidia's AI revenue to surge significantly over the next few years, with a substantial growth in market share attributed to its advanced AI technology.",
+            "impact": "High",
+            "rationale": "This event highlights Nvidia\u2019s leadership position in the AI sector and its potential for significant financial gains, influencing investment strategies and business plans."
+        }
+    ],
+    "medium_impact_events": [],
+    "low_impact_events": []
+}

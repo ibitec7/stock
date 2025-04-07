@@ -1,0 +1,36 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "NVIDIA GeForce RTX 3070 Ti review: A GPU for wild times",
+            "event_type": "Product Review",
+            "summary": "An in-depth analysis and review of the NVIDIA GeForce RTX 3070 Ti, a high-performance graphics card that offers excellent performance at an attractive price point.",
+            "impact": "High",
+            "rationale": "This event has a high impact because it provides valuable information for consumers considering purchasing this GPU. It influences buying decisions and market perception."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia to stop support for Windows 7, 8, 8.1, and Kepler GPUs soon",
+            "event_type": "Product Support Termination",
+            "summary": "NVIDIA announced that it will end the support for its GTX 600/700 series of graphics cards running on Windows operating systems such as Windows 7, 8, and 8.1.",
+            "impact": "Medium",
+            "rationale": "This event has a moderate impact because it affects a significant number of users who are still using older operating systems, but does not directly affect the supply or availability of new graphics cards."
+        },
+        {
+            "headline": "NVIDIA ending support for Windows 7, 8, and older \u2018Kepler\u2019 GeForce GPUs soon",
+            "event_type": "Product Support Termination",
+            "summary": "NVIDIA announced that it will no longer provide updates or support for its Kepler-series graphics cards running on Windows operating systems such as Windows 7, 8, and 8.1.",
+            "impact": "Medium",
+            "rationale": "Similar to the previous event, this is another product support termination announcement but affects a different group of users (Windows 7/8/8.1)."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "NVIDIA CEO Jensen Huang talks about the value of ethereum, advances in crypto mining and the global semiconductor shortage in a recent interview. Here are the 10 best quotes.",
+            "event_type": "Corporate Announcement",
+            "summary": "NVIDIA's Chief Executive Officer, Jensen Huang, discussed the company\u2019s relationship with Ethereum, future advancements in crypto mining, and the ongoing global semiconductor supply chain issues during an interview.",
+            "impact": "Low",
+            "rationale": "While this event involves high-level corporate discussions, it does not have a direct impact on product availability or market demand. It is more of an internal update rather than a public announcement."
+        }
+    ]
+}

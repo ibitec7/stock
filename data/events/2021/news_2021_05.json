@@ -1,0 +1,28 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia Unveils RTX 3050, 3050 Ti for Gaming Laptops as Little as $799 - ExtremeTech",
+            "event_type": "Product Release",
+            "summary": "NVIDIA released two new gaming laptop GPUs (RTX 3050 and RTX 3050 Ti) that are priced very competitively, targeting the lower-end of the market.",
+            "impact": "High",
+            "rationale": "These products have a significant impact on the pricing strategy for NVIDIA's gaming laptops segment."
+        },
+        {
+            "headline": "Nvidia launches GeForce RTX 3080 Ti and 3070 Ti graphics cards - VentureBeat",
+            "event_type": "Product Release",
+            "summary": "NVIDIA introduced two high-end gaming GPUs (RTX 3080 Ti and RTX 3070 Ti) that are designed for top-tier performance in high-end gaming setups.",
+            "impact": "High",
+            "rationale": "These products cater to the needs of hardcore gamers and professionals who demand maximum performance."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia GeForce RTX 3080 Laptop GPU Review - TechSpot",
+            "event_type": "Product Evaluation",
+            "summary": "TechSpot conducted and published a review of NVIDIA\u2019s latest laptop graphics card, providing users with an in-depth analysis.",
+            "impact": "Medium",
+            "rationale": "This event provides valuable information for consumers considering purchasing the RTX 3080 for their laptops."
+        }
+    ],
+    "low_impact_events": []
+}

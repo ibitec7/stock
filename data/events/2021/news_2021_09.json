@@ -1,0 +1,42 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "NVIDIA Founder/CEO Jensen Huang Named to TIME's Top 100 Influencers of 2021 - Computer Graphics World",
+            "event_type": "Recognition and Prestige",
+            "summary": "Jensen Huang, the CEO of NVIDIA, was named one of the most influential people by Time magazine in its list of top influencers for 2021.",
+            "impact": "High",
+            "rationale": "This recognition places Jensen Huang among other prominent figures who have made significant contributions to technology and innovation. Being listed as a Top Influencer is a high-profile endorsement that can increase the company's visibility and enhance its reputation."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA Graphics Card Prices in China Go Up 18% Following Latest Ethereum Price Increase - Tech Times",
+            "event_type": "Market Reaction",
+            "summary": "Due to increased demand for GPUs driven by the rise in the price of cryptocurrency, NVIDIA's graphics card prices saw an increase of approximately 18% in the Chinese market.",
+            "impact": "Medium",
+            "rationale": "The significant spike in GPU prices can affect gaming enthusiasts and PC builders who rely on these components. It highlights the interplay between traditional hardware markets and crypto-related demand, showing how interconnected different sectors can be."
+        },
+        {
+            "headline": "NVIDIA Graphics Card Prices in China Go Up 18% Following Latest Ethereum Price Increase - Tech Times",
+            "event_type": "Market Reaction (Duplicate)",
+            "summary": "Due to increased demand for GPUs driven by the rise in the price of cryptocurrency, NVIDIA's graphics card prices saw an increase of approximately 18% in the Chinese market.",
+            "impact": "Medium",
+            "rationale": "The significant spike in GPU prices can affect gaming enthusiasts and PC builders who rely on these components. It highlights the interplay between traditional hardware markets and crypto-related demand, showing how interconnected different sectors can be."
+        },
+        {
+            "headline": "Elder Scrolls Online Shows Off Nvidia's New DLAA Technology - TheGamer",
+            "event_type": "Product Update/Innovation",
+            "summary": "The game Elder Scrolls Online has showcased NVIDIA's new DLAA (Deep Learning Adaptive Anti-Aliasing) technology, which enhances image quality without increasing GPU load.",
+            "impact": "Medium",
+            "rationale": "DLAA is a significant advancement in graphics processing that can improve gaming experiences while maintaining system performance. Its introduction could lead to wider adoption of this technology across various platforms."
+        },
+        {
+            "headline": "NVIDIA Graphics Card Prices in China Go Up 18% Following Latest Ethereum Price Increase - Tech Times",
+            "event_type": "Market Reaction (Duplicate)",
+            "summary": "Due to increased demand for GPUs driven by the rise in the price of cryptocurrency, NVIDIA's graphics card prices saw an increase of approximately 18% in the Chinese market.",
+            "impact": "Medium",
+            "rationale": "The significant spike in GPU prices can affect gaming enthusiasts and PC builders who rely on these components. It highlights the interplay between traditional hardware markets and crypto-related demand, showing how interconnected different sectors can be."
+        }
+    ],
+    "low_impact_events": []
+}

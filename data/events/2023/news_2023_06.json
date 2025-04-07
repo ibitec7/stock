@@ -1,0 +1,35 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia is up 163% this year and worth nearly $1 trillion\u2014here's what to know before investing - CNBC",
+            "event_type": "Stock Performance Update",
+            "summary": "CNBC reports Nvidia's significant stock performance, noting its value has grown substantially and discusses factors investors should consider.",
+            "impact": "High",
+            "rationale": "This event highlights the strong financial performance of Nvidia, which is a key indicator for potential investments in the company."
+        },
+        {
+            "headline": "Microsoft-backed AI startup Inflection raises $1.3 billion from Nvidia and others - Reuters",
+            "event_type": "Investment Event/Startup Financing",
+            "summary": "Reuters reports on a major investment round involving Microsoft, Nvidia, and other companies in the startup Inflection.",
+            "impact": "High",
+            "rationale": "This event showcases Nvidia's influence in the AI ecosystem through significant investments and partnerships with other leading tech companies."
+        },
+        {
+            "headline": "Nvidia\u2019s new monster CPU+GPU chip may power the next gen of AI chatbots - Ars Technica",
+            "event_type": "Product/Technology Development",
+            "summary": "Ars Technica discusses Nvidia's upcoming technology that could transform AI chatbot capabilities.",
+            "impact": "High",
+            "rationale": "This development indicates significant advancements in AI technologies, potentially impacting the tech landscape and industry standards."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia\u2019s AI software tricked into leaking data - Financial Times",
+            "event_type": "Data Breach/Security Incident",
+            "summary": "Financial Times reports on an incident where Nvidia's AI software unexpectedly leaked sensitive data.",
+            "impact": "Medium",
+            "rationale": "Although not directly related to the company's business operations, this event could affect customer trust and data security practices."
+        }
+    ],
+    "low_impact_events": []
+}

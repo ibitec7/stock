@@ -1,0 +1,35 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia gets ready to take over the stock market (again) - Yahoo Finance",
+            "event_type": "Stock Market Movement",
+            "summary": "Yahoo Finance reports that Nvidia's performance could have significant impact on the stock market, potentially causing fluctuations.",
+            "impact": "High",
+            "rationale": "The headline suggests a substantial influence on the stock market, indicating high potential for volatility."
+        },
+        {
+            "headline": "Nvidia second-quarter sales likely to double, even a slight miss may hurt shares - Reuters",
+            "event_type": "Economic Performance Indicator",
+            "summary": "Reuters predicts Nvidia's Q2 sales could be significantly higher than expected or face negative consequences if they fall short of projections.",
+            "impact": "High",
+            "rationale": "The potential for a significant impact on earnings and stock prices makes this event high in importance."
+        },
+        {
+            "headline": "Nvidia Faces DOJ Antitrust Probe Over Complaints From Rivals - The Information",
+            "event_type": "Regulatory Scrutiny",
+            "summary": "The Department of Justice is investigating Nvidia for potential antitrust practices based on complaints from rival companies.",
+            "impact": "High",
+            "rationale": "Such a probe can lead to legal actions and regulatory responses that affect stock prices significantly."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA Intern David Martin Helps Make AI Accessible, Trustworthy - NVIDIA Blog",
+            "event_type": "Innovation & Research",
+            "summary": "Intern David Martin's work contributes to improving the accessibility and trustworthiness of artificial intelligence technology.",
+            "impact": "Medium",
+            "rationale": "While impactful, this event has less direct influence on stock prices compared to regulatory scrutiny or economic indicators."
+        }
+    ],
+    "low_impact_events": []
+}

@@ -1,0 +1,63 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "RTX 3060 Ti Is Nvidia's Cheapest RTX 30-Series Graphics Card So Far",
+            "event_type": "Product Release/Announcement",
+            "summary": "NVIDIA introduced the RTX 3060 Ti, positioning it as the most affordable card in its series.",
+            "impact": "High",
+            "rationale": "This event is significant because it sets a new price point within NVIDIA's range of graphics cards."
+        },
+        {
+            "headline": "Demand will probably exceed supply: Nvidia explains RTX 30 shortages",
+            "event_type": "Market Conditions/Supply Chain Issues",
+            "summary": "NVIDIA addressed the ongoing shortage issues in their high-end GPU lineup by explaining that demand was outpacing production.",
+            "impact": "High",
+            "rationale": "This event highlights a critical issue affecting consumer access to NVIDIA's most popular products."
+        },
+        {
+            "headline": "NVIDIA RTX 3060 Ti review: The new king of $399 GPUs",
+            "event_type": "Product Review/Comparison",
+            "summary": "A detailed analysis of the RTX 3060 Ti placed it as a top performer in its price segment, challenging other GPUs.",
+            "impact": "High",
+            "rationale": "This event provides valuable insights into how the new card compares to others on the market and enhances consumer understanding."
+        },
+        {
+            "headline": "NVIDIA Supports Vulkan Ray Tracing Now!",
+            "event_type": "Technology Adoption/Acceleration",
+            "summary": "NVIDIA announced support for Vulkan ray tracing, making it easier for developers to integrate this technology into their projects.",
+            "impact": "High",
+            "rationale": "This event accelerates the adoption of ray tracing in gaming and other visual applications."
+        },
+        {
+            "headline": "NVIDIA Ampere vs. AMD RDNA 2: Battle of the Architectures",
+            "event_type": "Technology Comparison/Review",
+            "summary": "A detailed comparison between NVIDIA's Ampere architecture GPUs and AMD's RDNA 2 architecture, focusing on performance metrics.",
+            "impact": "High",
+            "rationale": "This event provides valuable information for gamers and developers looking to understand the competitive landscape in GPU architectures."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Asus TUF Gaming NVIDIA GeForce RTX 3080 Graphics Card: Hands-on Review",
+            "event_type": "Product Launch/Review",
+            "summary": "A detailed review of the latest ASUS graphics card offering, highlighting its features and performance.",
+            "impact": "Medium",
+            "rationale": "This event provides information for tech enthusiasts who are interested in high-end gaming solutions."
+        },
+        {
+            "headline": "NVIDIA u-turns on its decision to block Hardware Unboxed from receiving GPU review units",
+            "event_type": "Corporate Policy/Change of Direction",
+            "summary": "NVIDIA reversed its previous stance, allowing independent hardware testing company Hardware Unboxed access to their products for reviews.",
+            "impact": "Medium",
+            "rationale": "This event reflects a change in policy and could impact the relationship between NVIDIA and its third-party testers."
+        },
+        {
+            "headline": "'Bobbleheads: The Movie' First Feature Completed Remotely on Microsoft Azure Using NVIDIA GPUs",
+            "event_type": "Technology Application/Case Study",
+            "summary": "A remote filmmaking project completed using NVIDIA GPUs, showcasing the versatility of GPU technology.",
+            "impact": "Medium",
+            "rationale": "This event demonstrates how advanced technologies like NVIDIA GPUs can be used in non-traditional settings."
+        }
+    ],
+    "low_impact_events": []
+}

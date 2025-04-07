@@ -1,0 +1,78 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia RTX 3080 Power: Q1 2022 release, uses 450W power - TweakTown",
+            "event_type": "Product Release or Update",
+            "summary": "NVIDIA is planning to release the RTX 3080 GPU in the first quarter of 2022. This model will have a high power consumption of up to 450W.",
+            "impact": "High",
+            "rationale": "This event introduces a new, powerful gaming graphics card that is expected to be popular and used for high-performance computing tasks."
+        },
+        {
+            "headline": "NVIDIA Readies GeForce RTX 3080 With GA102-220, RTX 3050 Ti With GA106-150 & RTX 3050 With GA107-350 GPUs - Wccftech",
+            "event_type": "Product Release or Update",
+            "summary": "NVIDIA is preparing to release the GeForce RTX 3080 GPU, with models for the RTX 3050 Ti and RTX 3050 GPUs. These new GPUs will use different architecture code names.",
+            "impact": "High",
+            "rationale": "This event introduces multiple high-performance gaming graphics cards that are expected to be in high demand."
+        },
+        {
+            "headline": "NVIDIA RTX 3080 Ti GPU could be coming to supercharge gaming laptops - TechRadar",
+            "event_type": "Product Release or Update",
+            "summary": "There are rumors that the RTX 3080 Ti GPU from NVIDIA is set to enhance gaming experiences on laptops. This would provide high-performance computing for portable devices.",
+            "impact": "High",
+            "rationale": "This event introduces a new, powerful GPU variant with potential impact on laptop and desktop gaming."
+        },
+        {
+            "headline": "NVIDIA Readies GeForce RTX 3080 With GA102-220, RTX 3050 Ti With GA106-150 & RTX 3050 With GA107-350 GPUs - Wccftech",
+            "event_type": "Product Release or Update",
+            "summary": "NVIDIA is preparing to release the GeForce RTX 3080 GPU, with models for the RTX 3050 Ti and RTX 3050 GPUs. These new GPUs will use different architecture code names.",
+            "impact": "High",
+            "rationale": "This event introduces multiple high-performance gaming graphics cards that are expected to be in high demand."
+        },
+        {
+            "headline": "NVIDIA RTX 3080 Ti GPU could be coming to supercharge gaming laptops - TechRadar",
+            "event_type": "Product Release or Update",
+            "summary": "There are rumors that the RTX 3080 Ti GPU from NVIDIA is set to enhance gaming experiences on laptops. This would provide high-performance computing for portable devices.",
+            "impact": "High",
+            "rationale": "This event introduces a new, powerful GPU variant with potential impact on laptop and desktop gaming."
+        },
+        {
+            "headline": "NVIDIA introduces the new RTX 3080 Ti GPU with improved performance - TechCrunch",
+            "event_type": "Product Release or Update",
+            "summary": "NVIDIA has announced the introduction of a new RTX 3080 Ti GPU that features enhanced performance compared to previous models. This product is expected to be highly sought after by gamers and professionals.",
+            "impact": "High",
+            "rationale": "This event introduces an improved version of a popular gaming graphics card, which could drive demand and sales."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia officially discontinues Game Ready driver support for Kepler GPUs - VideoCardz.com",
+            "event_type": "Product End or Update",
+            "summary": "NVIDIA has stopped supporting its Game Ready drivers for the Kepler architecture, which includes GeForce GTX 980 and earlier models. This means users will have to use alternative drivers.",
+            "impact": "Medium",
+            "rationale": "This event affects a significant number of GPU models that were used by many gamers and developers."
+        },
+        {
+            "headline": "NVIDIA officially discontinues Game Ready driver support for Kepler GPUs - VideoCardz.com",
+            "event_type": "Product End or Update",
+            "summary": "NVIDIA is ending the support of its Game Ready drivers for Kepler architecture, including models like GeForce GTX 980 and earlier.",
+            "impact": "Medium",
+            "rationale": "This event affects a significant number of GPU models used by many gamers and developers."
+        },
+        {
+            "headline": "NVIDIA's Game Ready drivers are no longer supported on Windows 10 - Wccftech",
+            "event_type": "Product End or Update",
+            "summary": "NVIDIA announced that its Game Ready drivers will be discontinued for Windows 10, requiring users to switch to the latest and most stable drivers from NVIDIA.",
+            "impact": "Medium",
+            "rationale": "This event affects a significant number of users who rely on these drivers for their gaming systems."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "NVIDIA's RTX 3080 Ti GPU could be getting a subtle 2GB VRAM upgrade - PCGamesN",
+            "event_type": "Product Release or Update",
+            "summary": "There are rumors that NVIDIA may be planning to introduce a subtle 2GB VRAM upgrade for the RTX 3080 Ti GPU. This would improve its performance and efficiency.",
+            "impact": "Low",
+            "rationale": "This event is about a possible minor improvement in an existing product, which could have limited impact."
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "NVIDIA is set to overtake Apple as world's second-most valuable company",
+            "event_type": "Market Value Surge and Industry Leadership Shift",
+            "summary": "NVIDIA reported substantial growth, causing its market value to surpass that of Apple.",
+            "impact": "High",
+            "rationale": "This event indicates a significant shift in the tech industry leadership and reflects NVIDIA's growing dominance in AI and related technologies."
+        },
+        {
+            "headline": "AI darling Nvidia's market value surges closer to Apple - Reuters",
+            "event_type": "Market Value Comparison and Industry Leadership",
+            "summary": "NVIDIA's market value is close to matching that of Apple, a notable indicator of the company's growth in AI technology.",
+            "impact": "High",
+            "rationale": "This event highlights NVIDIA's position as an industry leader and underscores its growing importance in the tech sector."
+        },
+        {
+            "headline": "NVIDIA sets new record for revenue and profits - Bloomberg Law",
+            "event_type": "Financial Performance and Industry Positioning",
+            "summary": "NVIDIA reported record-breaking financial performance, reinforcing its position as a key player in AI.",
+            "impact": "High",
+            "rationale": "This event underscores NVIDIA's strong financial health and its central role in the development of AI technologies."
+        },
+        {
+            "headline": "NVIDIA reports stratospheric growth as AI boom shows no sign of stopping - The Guardian",
+            "event_type": "Industry Expansion and Technological Momentum",
+            "summary": "NVIDIA is experiencing unprecedented growth in the field of artificial intelligence, a trend that is expected to continue.",
+            "impact": "High",
+            "rationale": "This event emphasizes the ongoing success and expansion of NVIDIA's role in AI, setting expectations for continued market leadership."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Exclusive: Samsung\u2019s HBM chips failing Nvidia tests due to heat and power consumption woes - Reuters.com",
+            "event_type": "Product Performance and Technological Challenges",
+            "summary": "Samsung's HBM chips, designed for use by NVIDIA in its products, are facing performance issues which could affect market demand.",
+            "impact": "Medium",
+            "rationale": "This event highlights a potential hiccup in the supply chain that could impact NVIDIA\u2019s product development and sales."
+        },
+        {
+            "headline": "Nvidia-Backed Cloud AI Startup CoreWeave Seeks IPO: Report - CRN",
+            "event_type": "New Ventures and Initial Public Offerings (IPO)",
+            "summary": "A startup backed by NVIDIA is seeking an initial public offering, indicating a growing ecosystem of companies leveraging NVIDIA's technology.",
+            "impact": "Medium",
+            "rationale": "This event suggests the expansion of NVIDIA\u2019s technological influence through its investments in startups and their future potential."
+        }
+    ],
+    "low_impact_events": []
+}

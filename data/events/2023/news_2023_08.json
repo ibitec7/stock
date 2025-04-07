@@ -1,0 +1,28 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia's rising star gets even brighter with another stellar quarter propelled by sales of AI chips - The Associated Press",
+            "event_type": "Financial Performance Announcement",
+            "summary": "Nvidia reported record-breaking revenue and profit growth due to strong demand for AI chips.",
+            "impact": "High",
+            "rationale": "This event highlights Nvidia's dominant position in the AI semiconductor market, which significantly impacts its financial performance."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Best-in-Class Is in Session: New NVIDIA Studio Laptops Supercharge Content, Gaming and Education - NVIDIA Blog",
+            "event_type": "Product Launch Announcement",
+            "summary": "NVIDIA released new laptops designed to enhance content creation, gaming, and educational experiences.",
+            "impact": "Medium",
+            "rationale": "This event showcases Nvidia's product innovation but does not significantly alter the market dynamics or financial performance."
+        },
+        {
+            "headline": "AI-Related Tokens Hold Gains After Nvidia's Big Beat Solidifies Bullish Outlook - CoinDesk",
+            "event_type": "Market Reaction and Investment News",
+            "summary": "Investors responded positively to Nvidia\u2019s strong earnings report, which boosted the value of AI-related tokens.",
+            "impact": "Medium",
+            "rationale": "This event reflects market sentiment toward AI and GPU technologies but does not directly impact Nvidia's financial performance or product announcements."
+        }
+    ],
+    "low_impact_events": []
+}

@@ -1,0 +1,49 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia to take Intel's spot on Dow Jones Industrial Average - Reuters",
+            "event_type": "Market Entry/Exit",
+            "summary": "NVIDIA Corp. is set to join the Dow Jones Industrial Average (DJIA) as a component, replacing Intel Corporation in an effort to reflect the growing importance of artificial intelligence and data processing technologies.",
+            "impact": "High",
+            "rationale": "This event has significant market implications, signaling a shift towards AI-focused companies and reflecting the rapid growth of these sectors."
+        },
+        {
+            "headline": "'Flawless': Wall Street analysts cheer Nvidia's latest blowout earnings report - Yahoo Finance",
+            "event_type": "Financial Performance",
+            "summary": "NVIDIA Corp. reported exceptional financial results, outperforming expectations with strong sales and robust growth in AI-related products.",
+            "impact": "High",
+            "rationale": "The positive earnings report underscores NVIDIA's market leadership and its continued success in the AI space."
+        },
+        {
+            "headline": "Nvidia beats earnings expectations as investors eye demand for Blackwell AI chips - The Associated Press",
+            "event_type": "Financial Performance",
+            "summary": "NVIDIA Corp. surpassed analyst forecasts with strong financial performance, driven by high demand for its new Blackwell AI chips.",
+            "impact": "High",
+            "rationale": "This event highlights NVIDIA's growing market presence and the increasing importance of AI in various industries."
+        },
+        {
+            "headline": "Nvidia beats earnings expectations as investors eye demand for Blackwell AI chips - The Associated Press",
+            "event_type": "Financial Performance",
+            "summary": "NVIDIA Corp. exceeded financial targets with strong sales of its new Blackwell AI chips, attracting investor interest and market attention.",
+            "impact": "High",
+            "rationale": "This event further solidifies NVIDIA's position as a leader in the AI industry and may influence future investment decisions."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "New Nvidia AI chips overheating in servers, the Information reports - Reuters",
+            "event_type": "Operational Issues",
+            "summary": "There are reported issues with the performance and reliability of new NVIDIA artificial intelligence chips used in server environments.",
+            "impact": "Medium",
+            "rationale": "These operational concerns could lead to delays or disruptions in the deployment and use of AI solutions, affecting both NVIDIA's reputation and potential customers."
+        },
+        {
+            "headline": "Nvidia CEO says global cooperation in tech will continue under Trump administration - Reuters",
+            "event_type": "Corporate Strategy & Trends",
+            "summary": "The company\u2019s CEO expressed optimism about continued collaboration within the technology sector, particularly with regards to international relations and joint projects.",
+            "impact": "Medium",
+            "rationale": "This event reflects NVIDIA's strategy for maintaining a strong global presence despite potential changes in US government policies."
+        }
+    ],
+    "low_impact_events": []
+}

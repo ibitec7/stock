@@ -1,0 +1,49 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia becomes world\u2019s most valuable company, dethroning Microsoft - Al Jazeera English",
+            "event_type": "Market Leadership Change",
+            "summary": "NVIDIA's market capitalization surpassed that of Microsoft, taking the top position in the world's most valuable companies list.",
+            "impact": "High",
+            "rationale": "This event represents a significant shift in the high-tech industry leadership and underscores NVIDIA's growing dominance in AI and data center markets."
+        },
+        {
+            "headline": "Nvidia vaults past Apple and Microsoft to become world\u2019s most valuable company - Financial Times",
+            "event_type": "Market Leadership Change",
+            "summary": "NVIDIA overtook both Apple and Microsoft to claim the position of the most valuable tech firm globally.",
+            "impact": "High",
+            "rationale": "This event highlights NVIDIA's rapid growth and competitive advantage in AI, data centers, and other high-demand technology sectors."
+        },
+        {
+            "headline": "Huge tech ETF set to buy $10 billion in Nvidia shares - Reuters.com",
+            "event_type": "Investment Activity",
+            "summary": "A significant fund manager has announced plans to invest billions of dollars into NVIDIA's stock, driving its value.",
+            "impact": "High",
+            "rationale": "Such investment activity can lead to substantial price increases and influence market sentiment towards NVIDIA."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia 10-for-1 stock split goes into effect after stock price for the chipmaker doubled this year - The Associated Press",
+            "event_type": "Corporate Actions",
+            "summary": "NVIDIA initiated a stock split, reducing its share price by half and increasing the number of shares issued.",
+            "impact": "Medium",
+            "rationale": "This event is aimed at making NVIDIA's stock more accessible to retail investors and potentially boosting investor confidence."
+        },
+        {
+            "headline": "SCOTUS Grants Certiorari to hear NVIDIA Fraud Appeal on PSLRA Pleading Standard - Mintz",
+            "event_type": "Legal Activity",
+            "summary": "The Supreme Court will review a fraud case involving NVIDIA, possibly impacting its legal and financial landscape.",
+            "impact": "Medium",
+            "rationale": "A high-profile court hearing could affect investor confidence and potentially impact the stock price in the short term."
+        },
+        {
+            "headline": "Nvidia's Jensen Huang Is on Top of the World. So Why Is He Worried? - The Information",
+            "event_type": "Leadership Concerns",
+            "summary": "CEO Jensen Huang expresses concerns despite NVIDIA's meteoric rise, indicating potential internal or external issues.",
+            "impact": "Medium",
+            "rationale": "Concerns from a company leader can influence market perception and stock price in the short term."
+        }
+    ],
+    "low_impact_events": []
+}
