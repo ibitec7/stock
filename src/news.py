@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 from pygooglenews import GoogleNews
 import os
 import logging
+import time
 from urllib.parse import quote, urlparse
 import json
 
@@ -32,8 +33,9 @@ async def decode_urls(articles, client):
         for art in articles
     ]
     payload = f"f.req={quote(json.dumps([articles_reqs]))}"
-    headers = {"content-type": "application/x-www-form-urlencoded;charset=UTF-8"}
+    headers = {"content-type": "application/x-www-form-urlencoded;charset=UTF-8", "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0"}
     response = await client.post("https://news.google.com/_/DotsSplashUi/data/batchexecute", headers=headers, data=payload)
+    time.sleep(5)
     response.raise_for_status()
     return [json.loads(res[2])[1] for res in json.loads(response.text.split("\n\n")[1])[:-2]]
 
@@ -251,7 +253,7 @@ def main(ticker: str, from_date: str, to_date: str, limit: int, output_path: str
     return 1
 
 if __name__ == "__main__":
-    years = ["2025"]
+    years = ["2023"]
     months = ["01"]
 
     root_path = "/home/ibrahim/stock/new_data"

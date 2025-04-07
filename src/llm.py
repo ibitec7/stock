@@ -3,8 +3,10 @@ import os
 import json
 import time
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+from tqdm import tqdm
 
 if __name__ == "__main__":
+
     os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
     os.environ["OLLAMA_TRT"] = '1'
 
@@ -89,49 +91,48 @@ if __name__ == "__main__":
         "gpu_layers": -1
     }
 
-    tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-3B-Instruct-AWQ")
-    model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-3B-Instruct-AWQ", device_map = "cuda", low_cpu_mem_usage = True)
-    generator = pipeline("text-generation", model=model, tokenizer=tokenizer)
 
     root_dir = "/home/ibrahim/stock/data"
-    years = ["2024", "2023", "2022", "2021","2020"]
+    years = ["2025"]
     for year in years:
         for path in os.listdir(os.path.join(root_dir, year)):
             print(f"Working on {path}")
             with open(os.path.join(root_dir, year, path), "r") as f:
                 data = json.load(f)
             
-            for i, article in enumerate(data["articles"]):
+            for i, article in enumerate(tqdm(data["articles"], desc="Processing articles")):
                 if "ai_analysis" in data["articles"][i].keys():
                     print(f"Skipping {i+1}/{len(data['articles'])}")
                     continue
                 input = prompt.format(news=article["response"])
                 start_time = time.time()
-                response = generator(input, max_length=32000)[0]["generated_text"]
+                response = ollama.chat(messages=[{
+                    "role": "user",
+                    "content": input
+                }],
+                model="qwen2.5:1.5b",
+                format="json",
+                ).message.content
+
                 try:
-                    analysis = json.loads(response)["analysis"]
-                    print(analysis)
+                    analysis = json.loads(response)
+                    
                 except:
-                    # Load your model and tokenizer (consider moving these outside the loop for efficiency)
-                    tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-3B-Instruct-AWQ")
-                    model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-3B-Instruct-AWQ")
-                    generator = pipeline("text-generation", model=model, tokenizer=tokenizer)
 
-                    response_text = generator(input, max_length=32000)[0]["generated_text"]
+                    response_text = ollama.chat(messages=[{
+                        "role": "user",
+                        "content": input
+                    }],
+                    model="qwen2.5:1.5b",
+                    format="json",
+                    ).message.content
 
-                    analysis = json.loads(response_text)["analysis"]
-                    print(analysis)
-                    analysis = json.loads(response.message["content"])["analysis"]
-                    print(analysis)
-
+                    analysis = json.loads(response_text)
 
                 elapsed_time = time.time() - start_time
 
                 
                 data["articles"][i]["ai_analysis"] = analysis
-                print(f"Completed {i+1}/{len(data['articles'])}   |   Response time: {elapsed_time:.2f} seconds")
-
-                print("Saving data")
 
                 with open(os.path.join(root_dir, year, path), "w") as f:
                     json.dump(data, f, indent=4)
