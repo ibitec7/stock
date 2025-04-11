@@ -1,0 +1,135 @@
+{
+    "news": {
+        "title": "string",
+        "totalResults": "int32",
+        "headlines": [
+            {
+                "headline": "string",
+                "finbert_sentiment": {
+                    "positive": "f64",
+                    "neutral": "f64",
+                    "negative": "f64"
+                }
+            }
+        ],
+        "articles": [
+            {
+                "article": {
+                    "title": "string",
+                    "title_detail": {
+                        "type": "string",
+                        "language": "string",
+                        "base": "",
+                        "value": "string"
+                    },
+                    "links": [
+                        {
+                            "rel": "string",
+                            "type": "string",
+                            "href": "url"
+                        }
+                    ],
+                    "link": "string",
+                    "id": "string",
+                    "guidislink": "bool",
+                    "published": "string",
+                    "published_parsed": [
+                        "year",
+                        "month",
+                        "day",
+                        "hour",
+                        "minute",
+                        "second",
+                        "etc"
+                    ],
+                    "summary": "string",
+                    "summary_detail": {
+                        "type": "string",
+                        "language": "string",
+                        "base": "string",
+                        "value": "string"
+                    },
+                    "source": {
+                        "href": "string",
+                        "title": "string"
+                    },
+                    "sub_articles": [
+                        "string"
+                    ],
+                    "response": "string",
+                    "sentiment_scores": {
+                        "neg": "f64",
+                        "neu": "f64",
+                        "pos": "f64",
+                        "compound": "f64"
+                    },
+                    "finbert_sentiment": {
+                        "positive": "f64",
+                        "neutral": "f64",
+                        "negative": "f64"
+                    },
+                    "ai_analysis": {
+                        "news_summary": {
+                            "title": "string",
+                            "date": "string",
+                            "key_points": [
+                                "string"
+                            ],
+                            "sentiment": {
+                                "overall": "string (Bullish/Bearish/Neutral)",
+                                "market_reaction": "string",
+                                "analyst_concerns": [
+                                    "string"
+                                ]
+                            }
+                        },
+                        "stock_impact": {
+                            "short_term": {
+                                "price_movement": "string",
+                                "catalysts": [
+                                    "string"
+                                ],
+                                "risks": [
+                                    "string"
+                                ]
+                            },
+                            "long_term": {
+                                "strategic_implications": [
+                                    "string"
+                                ],
+                                "growth_opportunities": [
+                                    "string"
+                                ],
+                                "competitive_position": "string"
+                            }
+                        },
+                        "technical_factors": {
+                            "product_launches": [
+                                "string"
+                            ],
+                            "AI_innovation": [
+                                "string"
+                            ],
+                            "data_center_growth": "string"
+                        },
+                        "financial_metrics": {
+                            "revenue_impact": "string",
+                            "margin_pressure": "string",
+                            "guidance_changes": "string"
+                        },
+                        "recommendations": {
+                            "trading_strategy": "string",
+                            "hold/buy/sell": "string",
+                            "monitor_factors": [
+                                "string"
+                            ]
+                        }
+                    },
+                    "embedding": [
+                        "f64 shape(768)"
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -184,14 +184,18 @@ for dir in DIRS:
         high_event_tokens_arr[i] = [lemmatizer.lemmatize(token) for token in high_event_tokens_arr[i] if token.isalpha() and token not in stop_words]
 
     for i in tqdm(range(len(medium_event_tokens_arr)), total=len(medium_event_tokens_arr), desc="Processing medium event chunks", unit="chunk"):
-        medium_event_tokens_arr[i] = [word for word in medium_event_tokens_arr[i] if word not in stop_words]
+        medium_event_tokens_arr[i] = [token.strip(string.punctuation) for token in medium_event_tokens_arr[i]]
 
-        medium_event_tokens_arr[i] = [lemmatizer.lemmatize(token) for token in medium_event_tokens_arr[i]]
+        medium_event_tokens_arr[i] = [token for token in medium_event_tokens_arr[i] if not token.isdigit()]
+
+        medium_event_tokens_arr[i] = [lemmatizer.lemmatize(token) for token in medium_event_tokens_arr[i] if token.isalpha() and token not in stop_words]
 
     for i in tqdm(range(len(low_event_tokens_arr)), total=len(low_event_tokens_arr), desc="Processing low event chunks", unit="chunk"):
-        low_event_tokens_arr[i] = [word for word in low_event_tokens_arr[i] if word not in stop_words]
+        low_event_tokens_arr[i] = [token.strip(string.punctuation) for token in low_event_tokens_arr[i]]
 
-        low_event_tokens_arr[i] = [lemmatizer.lemmatize(token) for token in low_event_tokens_arr[i]]
+        low_event_tokens_arr[i] = [token for token in low_event_tokens_arr[i] if not token.isdigit()]
+
+        low_event_
 
 
     # Flatten the tokens_arr back into a single list
