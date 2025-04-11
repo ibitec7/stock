@@ -13,10 +13,32 @@ def tab_2(sentiment_data, indicators_data, CACHE_DIR):
     
     col1, col2, col3 = st.columns(3)
 
-    dates = [datetime.strptime(date, "%Y-%m-%dT%H:%M:%S") for date in data["articles"].keys()]
+    article_dates = [datetime.strptime(date, "%Y-%m-%dT%H:%M:%S") for date in data["articles"].keys()]
+    articles_list = [article for article in data["articles"].values()]
+
+    headlines_list = [headline for headline in data["headlines"].values()]
+    headlines_dates = [datetime.strptime(date, "%Y-%m-%dT%H:%M:%S") for date in data["headlines"].keys()]
+
+    sorted_headlines = []
+    sorted_articles = []
+
+    with col3:
+        sentiment_type = st.selectbox(
+            "Select Sentiment type",
+            ("Headlines", "Articles"),
+            value="Articles"
+        )
+
+    if sentiment_type == "Headlines":
+        dates = headlines_dates
+        sentiment_objects = headlines_list
+
+    elif sentiment_type == "Articles":
+        dates = article_dates
+        sentiment_objects = articles_list
 
     with col1:
-        st.selectbox(
+        start_date = st.selectbox(
             label="Start Date",
             value=min(dates),
             min_value=min(dates),
@@ -24,19 +46,14 @@ def tab_2(sentiment_data, indicators_data, CACHE_DIR):
         )
 
     with col2:
-        st.selectbox(
+        end_date = st.selectbox(
             label="End Date",
             value=max(dates),
             min_value=min(dates),
             max_values=max(dates)
         )
 
-    with col3:
-        st.selectbox(
-            "Select Sentiment type",
-            ("Headlines", "Articles"),
-            value="Articles"
-        )
+    
 
     
 
