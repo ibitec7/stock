@@ -1,6 +1,5 @@
 import json
 import os
-import nltk
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
@@ -167,7 +166,7 @@ for dir in DIRS:
 
     lemmatizer = WordNetLemmatizer()
 
-    stop_words = set(stopwords.words("english")).difference(set(["up", "down"]))
+    stop_words = set(stopwords.words("english"))
 
     for i in tqdm(range(len(tokens_arr)), total=len(tokens_arr), desc="Processing chunks", unit="chunk"):
         tokens_arr[i] = [token.strip(string.punctuation) for token in tokens_arr[i]]
@@ -195,7 +194,7 @@ for dir in DIRS:
 
         low_event_tokens_arr[i] = [token for token in low_event_tokens_arr[i] if not token.isdigit()]
 
-        low_event_
+        low_event_tokens_arr[i] = [lemmatizer.lemmatize(token) for token in low_event_tokens_arr[i] if token.isalpha() and token not in stop_words]
 
 
     # Flatten the tokens_arr back into a single list
