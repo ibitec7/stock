@@ -3,6 +3,7 @@ import polars as pl
 import plotly.graph_objects as go
 from dashboard_helpers import source_indicators
 
+cache = "../cache"
 
 def tab_1(timeframes, periods, CACHE_DIR):
     st.header("NVDIA Stock Price Overview")
@@ -23,7 +24,7 @@ def tab_1(timeframes, periods, CACHE_DIR):
             index=2,
         )
 
-    data_indicators = source_indicators(period, CACHE_DIR, timeframe)
+    data_indicators = source_indicators(period, timeframe= timeframe)
 
     with col1:
         start_date = st.date_input(
@@ -43,7 +44,7 @@ def tab_1(timeframes, periods, CACHE_DIR):
     with col3:
         type = st.selectbox(
             "Select Chart Type",
-            ("Candlestick", "Line")
+            ("Candlestick", "Line", "OHLC")
         )
 
     filtered_df = data_indicators.filter(
@@ -61,6 +62,7 @@ def tab_1(timeframes, periods, CACHE_DIR):
             high = filtered_df['high'],
             low = filtered_df['low'],
             close = filtered_df['close'],
+            name = 'Candlestick',
             opacity=1
         ))
 
@@ -73,13 +75,24 @@ def tab_1(timeframes, periods, CACHE_DIR):
             line=dict(color='orange', width=2)
         ))
     
+    elif type == "OHLC":
+        fig.add_trace(go.Ohlc(
+            x=filtered_df["date"],
+            open=filtered_df["open"],
+            high=filtered_df['high'],
+            low=filtered_df['low'],
+            close=filtered_df['close'],
+            name='OHLC',
+            opacity=1
+        ))
+    
     # Add volume as bar chart on secondary y-axis
     fig.add_trace(go.Bar(
         x=filtered_df["date"],
         y=filtered_df['volume'],
         name='Volume',
-        marker_color='rgba(0, 0, 255, 0.3)',
-        opacity=0.3,
+        marker_color='rgba(255, 255, 255, 0.5)',
+        opacity=0.5,
         yaxis='y2'
     ))
     
@@ -90,7 +103,7 @@ def tab_1(timeframes, periods, CACHE_DIR):
         yaxis_title='Price (USD)',
         yaxis2=dict(
             title='Volume',
-            tickfont=dict(color='rgba(0, 0, 255, 0.3)'),
+            tickfont=dict(color='rgba(255, 255, 255, 1)'),
             overlaying='y',
             side='right'
         ),
@@ -120,14 +133,21 @@ def tab_1(timeframes, periods, CACHE_DIR):
         y = filtered_df["returns"],
         name = "Returns",
         marker_color = colors,
-        opacity=0.8
+        opacity=0.8,
     ))
 
     fig2.update_layout(
         title=f"{timeframe_name} Returns with conditional coloring",
         xaxis_title = "Date",
         yaxis_title = "Returns (%)",
-        hovermode = "x unified"
+        hovermode = "x unified",
+        legend = dict(
+            orientation = "h",
+            yanchor = "bottom",
+            y = 1.02,
+            xanchor = "right",
+            x = 1
+        ),
     )
 
     st.plotly_chart(fig2, use_container_width=True)
