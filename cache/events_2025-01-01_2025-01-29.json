@@ -1,0 +1,20 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Nvidia Stock: Buy The DeepSeek Fear Now To Avoid Regret Later (Rating Upgrade) (NVDA)",
+            "event_type": "Rating Update",
+            "summary": "NVIDIA's stock rating has been upgraded, suggesting a potential increase in market value.",
+            "impact": "High",
+            "rationale": "The upgrade indicates positive investor sentiment towards NVIDIA, which could lead to an increase in the stock price and potentially higher demand from investors."
+        },
+        {
+            "headline": "NVIDIA Statement on the Biden Administration\u2019s Misguided \u2018AI Diffusion\u2019 Rule - NVIDIA Blog",
+            "event_type": "Regulatory Action",
+            "summary": "NVIDIA is expressing concerns over a rule proposed by the Biden administration that it believes could hinder its work in artificial intelligence.",
+            "impact": "High",
+            "rationale": "This regulatory action from the Biden administration has potential to impact NVIDIA's business operations and research, leading to uncertainty in the industry. This could affect both market positioning and long-term strategy."
+        }
+    ],
+    "medium_impact_events": [],
+    "low_impact_events": []
+}

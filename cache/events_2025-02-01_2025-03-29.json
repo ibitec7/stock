@@ -1,0 +1,92 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "NVDA: Nvidia Stock Drops as Traders Fear Exports to China May Tighten Up - TradingView",
+            "event_type": "Market Concerns Over Chinese Regulations on Tech Imports",
+            "summary": "Traders fear that the export restrictions on technology from China could impact NVIDIA's earnings and stock price.",
+            "impact": "High",
+            "rationale": "The event is significant because it directly affects how technology companies operate, especially those heavily reliant on exporting to China. This concern can lead to a reduction in sales revenue for NVIDIA and consequently affect its stock performance."
+        },
+        {
+            "headline": "NVIDIA Corporation (NVDA): Among Cathie Wood\u2019s Top AI Stock Picks in 2025 - Yahoo Finance",
+            "event_type": "Major Product Launch by Key Investor",
+            "summary": "Cathie Wood's top picks for the year include NVIDIA, a significant product launch in 2025.",
+            "impact": "High",
+            "rationale": "This highlights that NVIDIA is expected to be one of Cathie Wood's key investments for the coming year. As such, it indicates potential future growth and market confidence in the company."
+        },
+        {
+            "headline": "Nvidia\u2019s (NASDAQ:NVDA) Q4 Sales Top Estimates, Provides Encouraging Quarterly Revenue Guidance - Yahoo Finance",
+            "event_type": "Quarterly Financial Performance Report",
+            "summary": "NVIDIA's fourth quarter sales exceed expectations and provides positive revenue guidance.",
+            "impact": "High",
+            "rationale": "This is a significant quarterly report that indicates the company's financial health, which can positively impact its stock price as investors expect further growth."
+        },
+        {
+            "headline": "Is NVIDIA Corporation (NVDA) the Best Long Term Tech Stock to Buy Right Now? - Yahoo Finance",
+            "event_type": "Investor Interest in Future Growth Potential",
+            "summary": "This headline reflects investor interest and confidence in NVIDIA's long-term potential for growth.",
+            "impact": "High",
+            "rationale": "The question of whether NVIDIA is a good buy now indicates that it is considered as having strong future growth potential. This could influence the stock price positively."
+        },
+        {
+            "headline": "Nvidia: A Golden Buying Opportunity Before Earnings (NASDAQ:NVDA) - Seeking Alpha",
+            "event_type": "Earnings Report and Future Growth Potential",
+            "summary": "A seeking alpha report suggests that NVIDIA is a good buy before earnings given its strong performance in the last quarter.",
+            "impact": "High",
+            "rationale": "This headline indicates that NVIDIA's stock might have already performed well, making it an opportune time to buy, which could positively influence the stock price."
+        },
+        {
+            "headline": "DLSS 4 With Multi Frame Generation Available This Week In Marvel Rivals, Delta Force: Black Hawk Down, and Indiana Jones and the Great Circle - NVIDIA Daily News Report",
+            "event_type": "New Technology Announcement",
+            "summary": "NVIDIA announces a new technology feature that could impact its future performance.",
+            "impact": "High",
+            "rationale": "This is an announcement about a new technology that has potential to improve future products and services, which can positively influence the company's stock price."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Stocks making the biggest moves midday: Tesla, Palantir, Nvidia, Hims & Hers and more - CNBC",
+            "event_type": "Market Moves During Midday Sessions",
+            "summary": "This headline is part of a broader stock movement report that includes several major tech companies.",
+            "impact": "Medium",
+            "rationale": "It indicates that the market has moved in general, but does not provide specific impact on NVIDIA."
+        },
+        {
+            "headline": "How NVIDIA (NVDA) Stock Stands Out in a Strong Industry - Nasdaq",
+            "event_type": "Industry Performance Analysis",
+            "summary": "NVIDIA's stock performance is being highlighted as it stands out from the industry.",
+            "impact": "Medium",
+            "rationale": "This headline suggests that NVIDIA, despite strong industry trends, continues to perform well. This could indicate either a strong internal strategy or external market dynamics favoring NVIDIA."
+        },
+        {
+            "headline": "Microsoft and NVIDIA accelerate AI development and performance - Microsoft",
+            "event_type": "Collaboration in AI Development",
+            "summary": "A collaboration between Microsoft and NVIDIA, both major players in the AI space.",
+            "impact": "Medium",
+            "rationale": "This event is significant because it underscores their joint efforts to advance AI technology. While not directly affecting NVIDIA's stock price, it could be indicative of future technological developments that might impact NVIDIA's business."
+        },
+        {
+            "headline": "Is NVIDIA Corporation (NVDA) Buying Back Its Stock? - Yahoo Finance",
+            "event_type": "Stock Repurchase Decision",
+            "summary": "NVIDIA is considering stock repurchases, which could impact its earnings and market perception.",
+            "impact": "Medium",
+            "rationale": "This event indicates that NVIDIA might consider repurchasing shares of its own stock. While not directly affecting the company's financials or long-term strategy, it can influence short-term stock price movements."
+        },
+        {
+            "headline": "AI innovation starts here\u2014join Microsoft at NVIDIA GTC - Microsoft",
+            "event_type": "Tech Conference Highlighting Future AI Trends",
+            "summary": "Microsoft is attending a conference hosted by NVIDIA to showcase future AI trends.",
+            "impact": "Medium",
+            "rationale": "This event indicates that the company is actively involved in discussing and showcasing upcoming technology, which could influence investor sentiment."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "After a run of RTX 50-series launches with seemingly little availability and mega price tags, I'm left wondering 'is that it?' - PC Gamer",
+            "event_type": "Tech Launches with Uncertain Demand",
+            "summary": "The launch of new NVIDIA graphics cards with high prices has led to mixed customer feedback.",
+            "impact": "Low",
+            "rationale": "This event is not directly related to NVIDIA's stock price, market position, or long-term strategy. It pertains more to consumer behavior and expectations regarding the product line."
+        }
+    ]
+}

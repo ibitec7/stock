@@ -1,0 +1,1 @@
+{"sma_window": {"5y": {"1d": 90}}, "ema_window": {"5y": {"1d": 90}}, "rsi_window": {"5y": {"1d": 14}}, "roc_window": {"5y": {"1d": 14}}, "stochastic_window": {"5y": {"1d": 14}}, "macd_long": {"5y": {"1d": 14}}, "macd_short": {"5y": {"1d": 14}}, "macd_signal": {"5y": {"1d": 14}}, "atr_window": {"5y": {"1d": 14}}}

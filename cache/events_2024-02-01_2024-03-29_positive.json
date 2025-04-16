@@ -1,0 +1,69 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Denmark Launches Leading Sovereign AI Supercomputer to Solve Scientific Challenges With Social Impact - NVIDIA Blog",
+            "event_type": "Major product launch",
+            "summary": "NVIDIA is collaborating with Denmark on a leading sovereign AI supercomputer that will solve scientific and social challenges.",
+            "impact": "High",
+            "rationale": "This event could significantly impact NVIDIA's reputation as it shows strategic collaboration in addressing real-world problems. It also positions NVIDIA as a leader in AI, which could bolster its stock price."
+        },
+        {
+            "headline": "A Not-So-Secret Agent: NVIDIA Unveils Blueprint for Cybersecurity - NVIDIA Blog",
+            "event_type": "Major product launch",
+            "summary": "NVIDIA unveils a blueprint for cybersecurity, indicating a major step in their security offerings.",
+            "impact": "High",
+            "rationale": "This event could enhance NVIDIA's reputation and appeal to security-conscious customers. It also positions them as a leader in the growing market of cybersecurity solutions."
+        },
+        {
+            "headline": "Nvidia Hires Top Cisco Inventor Amid Big Networking Sales Push - CRN",
+            "event_type": "Major acquisition/merger",
+            "summary": "NVIDIA hires a top Cisco inventor to drive networking sales, indicating significant product positioning and market expansion.",
+            "impact": "High",
+            "rationale": "This event is expected to increase NVIDIA's market position in the network solutions sector. It could also boost its stock price due to the potential for new revenue streams."
+        },
+        {
+            "headline": "Advanced Micro Devices (AMD)\u2019s Supercomputing Power Overtakes Nvidia (NVDA) \u2013 Can Its Stock Performance Too? - Yahoo Finance",
+            "event_type": "Product performance comparison",
+            "summary": "AMD surpasses NVIDIA in supercomputing power, prompting speculation on stock performance.",
+            "impact": "High",
+            "rationale": "This event could lead to increased scrutiny of NVIDIA's market share and potentially affect its competitive landscape. It also raises questions about the future direction of both companies."
+        },
+        {
+            "headline": "Brokers Suggest Investing in Nvidia (NVDA): Read This Before Placing a Bet - Nasdaq",
+            "event_type": "Market trends/analyst opinion",
+            "summary": "Brokerage firms recommend investing in NVIDIA, indicating a positive view of the stock.",
+            "impact": "High",
+            "rationale": "This event reflects positive market sentiment towards NVIDIA. It provides additional support for potential stock growth."
+        },
+        {
+            "headline": "Why Nvidia (NVDA) is a Top Growth Stock for the Long-Term - Yahoo Finance",
+            "event_type": "Long-term growth outlook",
+            "summary": "NVIDIA's long-term growth prospects are highlighted, indicating strong investor confidence and potential future stock performance.",
+            "impact": "High",
+            "rationale": "This event underscores NVIDIA's market position in the semiconductor industry. It reflects a positive trend that could sustain higher stock prices for years to come."
+        },
+        {
+            "headline": "Wall Street Analysts Adjust Targets For Nvidia And Tesla Amid Market Movements - Markets Insider",
+            "event_type": "Market movements/analyst consensus change",
+            "summary": "Analysts' targets for NVIDIA and Tesla are adjusted, indicating a market reaction following recent events.",
+            "impact": "High",
+            "rationale": "This event suggests that the stock market is reacting to news related to both NVIDIA and Tesla. It could indicate broader economic or industry trends affecting tech stocks."
+        },
+        {
+            "headline": "NVDA: Nvidia Suffers Worst Selloff in Four Years. Here\u2019s Why the Stock Collapsed 10% in One Day - TradingView",
+            "event_type": "Stock price movement/short-term sell-off",
+            "summary": "NVIDIA experiences a significant short-term sell-off, causing a 10% drop in stock value.",
+            "impact": "High",
+            "rationale": "This event is expected to be highly impactful as it could lead to market panic and potentially trigger further selling pressure on the stock."
+        },
+        {
+            "headline": "Stock market today: Tech stocks smoked, Nvidia tumbles 10% to cap worst week of the year - Yahoo Finance",
+            "event_type": "Market trends/stock performance day-to-day",
+            "summary": "The tech sector is hit hard by a sell-off, with NVIDIA experiencing a significant drop in stock value.",
+            "impact": "High",
+            "rationale": "This event highlights the broader market sentiment towards technology stocks. It indicates that investors may be losing confidence in the tech sector overall."
+        }
+    ],
+    "medium_impact_events": [],
+    "low_impact_events": []
+}

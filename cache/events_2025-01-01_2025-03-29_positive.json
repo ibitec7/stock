@@ -1,0 +1,141 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "Stock Market Today: Nasdaq Composite Crashes - How Far Will NVIDIA (NVDA) Drop Today?",
+            "event_type": "Stock market crash",
+            "summary": "The Nasdaq Composite experienced a significant drop, potentially affecting the stock price of companies listed on it.",
+            "impact": "High",
+            "rationale": "A major stock market crash can significantly impact corporate stocks, including NVIDIA's. The headline suggests that this could lead to further drops in NVIDIA's share price."
+        },
+        {
+            "headline": "NVDA: Nvidia Stock Drops as Traders Fear Exports to China May Tighten Up - TradingView",
+            "event_type": "Market position and strategy adjustment due to geopolitical concerns",
+            "summary": "Concerns over potential tightening of export restrictions to China, potentially affecting NVIDIA's business operations.",
+            "impact": "High",
+            "rationale": "This event directly impacts market positioning and could lead to short-term stock price volatility as traders react to the fear of tightened policies."
+        },
+        {
+            "headline": "Microsoft and NVIDIA accelerate AI development and performance - Microsoft",
+            "event_type": "Product Launch or Partnership Announcement",
+            "summary": "NVIDIA has announced a new partnership with Microsoft that could lead to significant advancements in AI technology.",
+            "impact": "High",
+            "rationale": "This event is highly impactful as it suggests collaboration between two major tech companies, which can enhance their combined research and development efforts."
+        },
+        {
+            "headline": "Nvidia\u2019s (NASDAQ:NVDA) Q4 Sales Top Estimates, Provides Encouraging Quarterly Revenue Guidance - Yahoo Finance",
+            "event_type": "Earnings or Market Relevance Update",
+            "summary": "NVIDIA has reported strong sales and revenue growth for the quarter, providing positive earnings guidance.",
+            "impact": "High",
+            "rationale": "This event is highly impactful as it indicates a significant improvement in NVIDIA's financial performance, which could positively influence its stock price."
+        },
+        {
+            "headline": "Is NVIDIA Corporation (NVDA) the Best Long Term Tech Stock to Buy Right Now? - Yahoo Finance",
+            "event_type": "Market Relevance or Stock Recommendation",
+            "summary": "Yahoo Finance is recommending NVIDIA as a top long-term tech investment option.",
+            "impact": "High",
+            "rationale": "This event is highly impactful as it reflects market consensus and recommendation, which can significantly influence investors' confidence in the stock."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Nvidia Stock: Buy The DeepSeek Fear Now To Avoid Regret Later (Rating Upgrade) (NVDA)",
+            "event_type": "Corporate rating upgrade",
+            "summary": "A corporate rating upgrade for NVIDIA stock, indicating improved financial performance and creditworthiness.",
+            "impact": "Medium",
+            "rationale": "This is a positive event that could slightly improve the stock's reputation but does not directly affect its price or market position."
+        },
+        {
+            "headline": "NVIDIA Corporation (NVDA): Among Cathie Wood\u2019s Top AI Stock Picks in 2025 - Yahoo Finance",
+            "event_type": "Corporate ranking by an investment guru",
+            "summary": "A corporate stock pick listed in Cathie Wood's top AI stock list.",
+            "impact": "Medium",
+            "rationale": "This is a positive event that could slightly improve the stock's reputation but does not directly affect its price or market position."
+        },
+        {
+            "headline": "Stocks making the biggest moves midday: Tesla, Palantir, Nvidia, Hims & Hers and more - CNBC",
+            "event_type": "Market movement",
+            "summary": "A list of stocks that are moving significantly in the morning trading session.",
+            "impact": "Medium",
+            "rationale": "This is a market movement event, which could influence investor sentiment but does not directly impact stock prices or reputation."
+        },
+        {
+            "headline": "After a run of RTX 50-series launches with seemingly little availability and mega price tags, I'm left wondering 'is that it?' - PC Gamer",
+            "event_type": "Earnings or Market Perception Change",
+            "summary": "PC Gamer is expressing concern over the future availability and pricing of NVIDIA's high-end graphics cards.",
+            "impact": "Medium",
+            "rationale": "This event is medium impactful as it reflects market perception changes, but not necessarily a major disruption to NVIDIA\u2019s stock price or performance."
+        },
+        {
+            "headline": "Is NVIDIA Corporation (NVDA) Buying Back Its Stock? - Yahoo Finance",
+            "event_type": "Earnings Announcement or Share Repurchase Activity",
+            "summary": "There is speculation that NVIDIA may be repurchasing shares, which could affect its stock price.",
+            "impact": "Medium",
+            "rationale": "This event is medium impactful as it relates to share buybacks, which can influence short-term market sentiments but are not typically considered high impact events for a company's long-term performance."
+        },
+        {
+            "headline": "Nvidia: A Golden Buying Opportunity Before Earnings (NASDAQ:NVDA) - Seeking Alpha",
+            "event_type": "Market Relevance or Stock Recommendation",
+            "summary": "Seeking Alpha is recommending that NVIDIA could be a golden buying opportunity before earnings reports.",
+            "impact": "Medium",
+            "rationale": "This event is medium impactful as it reflects market opinion and can influence short-term stock prices."
+        },
+        {
+            "headline": "DLSS 4 With Multi Frame Generation Available This Week In Marvel Rivals, Delta Force: Black Hawk Down, and Indiana Jones and the Great Circle - NVIDIA Daily News Report",
+            "event_type": "Product Update or Innovation Announcement",
+            "summary": "NVIDIA is announcing a new feature in their games that will improve performance.",
+            "impact": "Medium",
+            "rationale": "This event is medium impactful as it relates to product updates, which can affect market perception and stock prices."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "NVIDIA Statement on the Biden Administration\u2019s Misguided \u2018AI Diffusion\u2019 Rule - NVIDIA Blog",
+            "event_type": "Regulatory action",
+            "summary": "A statement from NVIDIA regarding a regulatory rule affecting AI diffusion.",
+            "impact": "Low",
+            "rationale": "This is a regulatory action, which typically does not directly impact stock prices or market positioning. It could influence long-term strategies but has minimal immediate effect on the stock's value."
+        },
+        {
+            "headline": "NVIDIA Announces Nemotron Model Families to Advance Agentic AI - NVIDIA Blog",
+            "event_type": "Product launch",
+            "summary": "A product announcement for advanced artificial intelligence models.",
+            "impact": "Low",
+            "rationale": "This is a product launch, which might affect market position and strategy but does not directly impact stock price or reputation."
+        },
+        {
+            "headline": "New GeForce RTX 50 Series GPUs Double Creative Performance in 3D, Video and Generative AI - NVIDIA Blog",
+            "event_type": "Product release",
+            "summary": "A new GPU model with improved performance in creative applications.",
+            "impact": "Low",
+            "rationale": "This is a product release that could influence market positioning but does not directly impact stock prices or reputation."
+        },
+        {
+            "headline": "Unveiling a New Era of Local AI With NVIDIA NIM Microservices and AI Blueprints - NVIDIA Blog",
+            "event_type": "Product announcement",
+            "summary": "An announcement about new microservices for local AI solutions.",
+            "impact": "Low",
+            "rationale": "This is a product announcement, which could influence market positioning but does not directly impact stock prices or reputation."
+        },
+        {
+            "headline": "How NVIDIA (NVDA) Stock Stands Out in a Strong Industry - Nasdaq",
+            "event_type": "Industry performance ranking",
+            "summary": "An industry ranking of how well NVIDIA is performing.",
+            "impact": "Low",
+            "rationale": "This event does not directly impact stock prices or market positioning but could influence the overall perception of the company's performance in a specific industry."
+        },
+        {
+            "headline": "Nvidia's Stock May Drop After Earnings - Even If It Beats (NASDAQ:NVDA) - Seeking Alpha",
+            "event_type": "Earnings or Market Reaction",
+            "summary": "Seeking Alpha is reporting that NVIDIA could see a slight drop in stock price even if it beats earnings expectations.",
+            "impact": "Low",
+            "rationale": "This event is low impactful as it indicates potential market uncertainty without direct financial impact on the stock price."
+        },
+        {
+            "headline": "AI innovation starts here\u2014join Microsoft at NVIDIA GTC - Microsoft",
+            "event_type": "Industry Event or Collaboration Opportunity",
+            "summary": "Microsoft will be attending the upcoming NVIDIA GTC event where they will showcase collaboration opportunities in AI.",
+            "impact": "Low",
+            "rationale": "This event is low impactful as it represents an industry-level opportunity and does not directly affect NVIDIA's stock price."
+        }
+    ]
+}

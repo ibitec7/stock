@@ -1,0 +1,28 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "NVIDIA Announces Nemotron Model Families to Advance Agentic AI - NVIDIA Blog",
+            "event_type": "Product Launch",
+            "summary": "NVIDIA introduces new model families that will further advance its agentic AI capabilities.",
+            "impact": "High",
+            "rationale": "This product launch is significant as it expands NVIDIA's market position in the field of artificial intelligence and could positively impact both short-term stock performance and long-term strategy."
+        },
+        {
+            "headline": "NVIDIA Corporation (NVDA): Among Cathie Wood\u2019s Top AI Stock Picks in 2025 - Yahoo Finance",
+            "event_type": "Reputation/Market Position",
+            "summary": "The company is included on Cathie Wood's list of top AI stock picks, indicating strong investor sentiment and potential for future performance.",
+            "impact": "High",
+            "rationale": "This headline suggests positive market positioning and could lead to increased confidence in the stock price."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "NVIDIA Statement on the Biden Administration\u2019s Misguided \u2018AI Diffusion\u2019 Rule - NVIDIA Blog",
+            "event_type": "Regulatory Action",
+            "summary": "NVIDIA expresses concerns about a new rule from the Biden administration that could impact its operations and market position.",
+            "impact": "Medium",
+            "rationale": "This regulatory action is not directly related to NVIDIA's financial performance or stock price but could affect its long-term strategy and reputation. Regulatory changes often have broader implications for technology companies."
+        }
+    ],
+    "low_impact_events": []
+}

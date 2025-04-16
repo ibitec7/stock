@@ -1,0 +1,211 @@
+{
+    "high_impact_events": [
+        {
+            "headline": "NVIDIA DRIVE Powers Next Generation of Transportation \u2014 From Cars and Trucks to Robotaxis and Autonomous Delivery Vehicles - NVIDIA Blog",
+            "event_type": "Product Launch/Announcement",
+            "summary": "NVIDIA's DRIVE system is being used in the development of new transportation technologies.",
+            "impact": "High",
+            "rationale": "This event indicates a significant advancement in technology that could impact NVIDIA's future products and market position, potentially leading to higher stock prices due to increased investor interest."
+        },
+        {
+            "headline": "Untouchable Nvidia hits yet another all-time high - Proactive Investors UK",
+            "event_type": "Stock Price/Performance Update",
+            "summary": "NVIDIA has hit an all-time high.",
+            "impact": "High",
+            "rationale": "This event indicates a record-breaking stock price, which could lead to increased investor interest and higher stock prices."
+        },
+        {
+            "headline": "Nvidia Rolls Out New Chips, Claims Leadership of AI PC Race - Bloomberg",
+            "event_type": "Product Launch/Announcement",
+            "summary": "NVIDIA is launching new chips that claim leadership in the artificial intelligence personal computer race.",
+            "impact": "High",
+            "rationale": "This launch could significantly impact NVIDIA's market position and competitive advantage, potentially leading to higher stock prices due to increased investor interest."
+        },
+        {
+            "headline": "Nvidia expands its reach in China's EV sector - Reuters",
+            "event_type": "Product Launch or Expansion",
+            "summary": "NVIDIA is expanding its presence in the electric vehicle (EV) market, potentially increasing demand for its AI chips.",
+            "impact": "High",
+            "rationale": "This event has the potential to significantly impact NVIDIA's stock price and reputation due to increased consumer interest and adoption of EV technology."
+        },
+        {
+            "headline": "Stock Market Today: Nasdaq Composite Crashes - How Far Will NVIDIA (NVDA) Drop Today? - 24/7 Wall St.",
+            "event_type": "Market Impact",
+            "summary": "NVIDIA's stock is expected to drop significantly due to market fluctuations.",
+            "impact": "High",
+            "rationale": "The stock market crash and the specific focus on NVIDIA could lead to a significant drop in its share price."
+        },
+        {
+            "headline": "NVIDIA Statement on the Biden Administration\u2019s Misguided \u2018AI Diffusion\u2019 Rule - NVIDIA Blog",
+            "event_type": "Regulatory Action or Announcement",
+            "summary": "NVIDIA is commenting on a rule related to AI diffusion, which could potentially affect its business strategies and markets.",
+            "impact": "High",
+            "rationale": "This regulatory action has the potential to impact NVIDIA's long-term strategy and market position."
+        },
+        {
+            "headline": "NVIDIA Announces Nemotron Model Families to Advance Agentic AI - NVIDIA Blog",
+            "event_type": "Innovation or Technology Release",
+            "summary": "NVIDIA is introducing new model families that will advance the field of agentic AI, which could be seen as a significant milestone in its technological evolution.",
+            "impact": "High",
+            "rationale": "This innovation has the potential to enhance NVIDIA's reputation and market position, leading to increased investor confidence."
+        },
+        {
+            "headline": "New GeForce RTX 50 Series GPUs Double Creative Performance in 3D, Video and Generative AI - NVIDIA Blog",
+            "event_type": "Product Launch or Innovation",
+            "summary": "NVIDIA is introducing new graphics cards that are expected to boost creativity and performance.",
+            "impact": "High",
+            "rationale": "This product launch has the potential to increase demand for NVIDIA's products, thereby positively impacting its stock price."
+        },
+        {
+            "headline": "Unveiling a New Era of Local AI With NVIDIA NIM Microservices and AI Blueprints - NVIDIA Blog",
+            "event_type": "Innovation or Technology Release",
+            "summary": "NVIDIA is unveiling new microservices that will enable local AI, potentially expanding its market reach.",
+            "impact": "High",
+            "rationale": "This innovation could enhance NVIDIA's position in the market and expand its customer base."
+        },
+        {
+            "headline": "How NVIDIA (NVDA) Stock Stands Out in a Strong Industry - Nasdaq",
+            "event_type": "Product Launch",
+            "summary": "NVIDIA stock stands out due to strong industry performance.",
+            "impact": "High",
+            "rationale": "This headline mentions that the company's stock performs exceptionally well, which could attract significant interest and potentially boost NVIDIA's market position."
+        },
+        {
+            "headline": "Is NVIDIA Corporation (NVDA) Buying Back Its Stock? - Yahoo Finance",
+            "event_type": "Major Product Launch",
+            "summary": "NVIDIA may be conducting a significant product launch that would affect its overall strategy.",
+            "impact": "High",
+            "rationale": "This headline indicates that NVIDIA is planning to release a major product, which could significantly impact the company's long-term strategy and financial performance."
+        },
+        {
+            "headline": "Nvidia\u2019s (NASDAQ:NVDA) Q4 Sales Top Estimates, Provides Encouraging Quarterly Revenue Guidance - Yahoo Finance",
+            "event_type": "Earnings Report",
+            "summary": "NVIDIA's revenue report is expected to be above estimates.",
+            "impact": "High",
+            "rationale": "This headline suggests that NVIDIA's quarterly earnings will exceed expectations, which could boost the company's stock price and reputation."
+        },
+        {
+            "headline": "Is NVIDIA Corporation (NVDA) the Best Long Term Tech Stock to Buy Right Now? - Yahoo Finance",
+            "event_type": "Major Product Launch",
+            "summary": "NVIDIA is expected to launch a major product.",
+            "impact": "High",
+            "rationale": "This headline indicates that NVIDIA plans to release a significant product, which could attract new customers and boost the company's market position."
+        },
+        {
+            "headline": "DLSS 4 With Multi Frame Generation Available This Week In Marvel Rivals, Delta Force: Black Hawk Down, and Indiana Jones and the Great Circle - NVIDIA Daily News Report",
+            "event_type": "Product Launch",
+            "summary": "NVIDIA is expected to release a new product that could significantly impact its industry.",
+            "impact": "High",
+            "rationale": "This headline suggests that NVIDIA will be releasing a new technology, which could have a substantial impact on the gaming and VR industries."
+        },
+        {
+            "headline": "Nvidia: A Golden Buying Opportunity Before Earnings (NASDAQ:NVDA) - Seeking Alpha",
+            "event_type": "Earnings Report",
+            "summary": "NVIDIA's earnings report is expected soon.",
+            "impact": "High",
+            "rationale": "This headline suggests that NVIDIA's earnings will be reported in the near future, which could significantly impact its stock price and reputation."
+        },
+        {
+            "headline": "Nvidia: A Golden Buying Opportunity Before Earnings (NASDAQ:NVDA) - Seeking Alpha",
+            "event_type": "Earnings Report",
+            "summary": "NVIDIA's earnings report is expected soon.",
+            "impact": "High",
+            "rationale": "This headline indicates that NVIDIA's earnings will be reported in the near future, which could significantly impact its stock price and reputation."
+        }
+    ],
+    "medium_impact_events": [
+        {
+            "headline": "Oracle and NVIDIA to Deliver Sovereign AI Worldwide - NVIDIA Blog",
+            "event_type": "Major Collaboration/Announcement",
+            "summary": "NVIDIA is partnering with Oracle on AI technology.",
+            "impact": "Medium",
+            "rationale": "This event shows a strategic partnership that could enhance NVIDIA's market position and expand its reach, but it does not directly affect the stock price as much as product launches."
+        },
+        {
+            "headline": "NVIDIA Celebrates Americas Partners Driving AI-Powered Transformation - NVIDIA Blog",
+            "event_type": "Corporate Event/Announcement",
+            "summary": "NVIDIA is recognizing and celebrating its partners who are driving AI transformation.",
+            "impact": "Medium",
+            "rationale": "This event highlights partnership efforts but does not directly impact the stock price as it could benefit both companies rather than NVIDIA's market position."
+        },
+        {
+            "headline": "Eco-System Upgrade: AI Plants a Digital Forest at NVIDIA GTC - NVIDIA Blog",
+            "event_type": "Tech Update/Feature Announcement",
+            "summary": "NVIDIA is enhancing its eco-system with new features for artificial intelligence.",
+            "impact": "Medium",
+            "rationale": "This update shows technological progress but does not directly impact the stock price as it pertains to NVIDIA's long-term strategy and market position."
+        },
+        {
+            "headline": "If You Invested $10,000 in Nvidia in 2020, This Is How Much You Would Have Today - The Motley Fool",
+            "event_type": "Historical Investor Analysis/Commentary",
+            "summary": "A historical analysis of past investments shows a positive return on investment.",
+            "impact": "Medium",
+            "rationale": "This commentary provides investor confidence but does not directly impact the stock price or market position."
+        },
+        {
+            "headline": "11 Hyper-Growth Stocks Billionaires Are Loading Up On - Yahoo Finance",
+            "event_type": "Market Trend/Commentary",
+            "summary": "The article mentions 11 hyper-growth stocks that billionaires are investing in, with NVIDIA included.",
+            "impact": "Medium",
+            "rationale": "This commentary indicates the potential growth of these companies but does not directly impact NVIDIA's stock price or market position."
+        },
+        {
+            "headline": "Nvidia Stock: Buy The DeepSeek Fear Now To Avoid Regret Later (Rating Upgrade) (NVDA) - Seeking Alpha",
+            "event_type": "Rating or Recommendation Change",
+            "summary": "There is a potential buy signal for NVIDIA's stock due to an upgrade in its rating.",
+            "impact": "Medium",
+            "rationale": "The recommendation change suggests that investors should be cautious rather than bullish."
+        },
+        {
+            "headline": "NVDA: Nvidia Stock Drops as Traders Fear Exports to China May Tighten Up - TradingView",
+            "event_type": "Market Impact or Concerns About Future Policies",
+            "summary": "NVIDIA's stock is expected to drop due to concerns about future policies regarding exports to China, which could impact its revenue and market position.",
+            "impact": "Medium",
+            "rationale": "The concern about potential tightening of export regulations could lead to a moderate decrease in the stock price."
+        },
+        {
+            "headline": "NVIDIA Corporation (NVDA): Among Cathie Wood\u2019s Top AI Stock Picks in 2025 - Yahoo Finance",
+            "event_type": "Investor Interest or Picking Stocks",
+            "summary": "Cathie Wood, a prominent investor, is recommending NVIDIA as one of her top picks for the year.",
+            "impact": "Medium",
+            "rationale": "This event suggests that investors are paying attention to NVIDIA's stock and could potentially drive its price higher."
+        },
+        {
+            "headline": "Stocks making the biggest moves midday: Tesla, Palantir, Nvidia, Hims & Hers and more - CNBC",
+            "event_type": "Market Impact or News Feed",
+            "summary": "NVIDIA is showing up in lists of stocks that are expected to have significant movements due to overall market conditions.",
+            "impact": "Medium",
+            "rationale": "This event indicates that NVIDIA's performance could be influenced by broader market trends."
+        },
+        {
+            "headline": "Microsoft and NVIDIA accelerate AI development and performance - Microsoft",
+            "event_type": "Merger & Acquisition",
+            "summary": "NVIDIA may face competition from a major corporate merger.",
+            "impact": "Medium",
+            "rationale": "This headline suggests that NVIDIA's competitors are expanding their presence in the AI market, which could challenge NVIDIA's market position and stock price."
+        },
+        {
+            "headline": "AI innovation starts here\u2014join Microsoft at NVIDIA GTC - Microsoft",
+            "event_type": "Event",
+            "summary": "Microsoft is attending an event with NVIDIA.",
+            "impact": "Medium",
+            "rationale": "This headline indicates that both companies are participating in a technology-focused event, which could potentially lead to new partnerships or collaborations."
+        }
+    ],
+    "low_impact_events": [
+        {
+            "headline": "Nvidia Is Still Misunderstood By A Lot Of Investors (NASDAQ:NVDA) - Seeking Alpha",
+            "event_type": "Investor Awareness/Commentary",
+            "summary": "There is ongoing criticism regarding the perception of NVIDIA by investors.",
+            "impact": "Low",
+            "rationale": "This comment does not provide a significant event that could directly affect NVIDIA's stock price or reputation."
+        },
+        {
+            "headline": "Nancy Pelosi Made $500,000 From Her Nvidia (NASDAQ: NVDA) Bet, Doubling Her Annual Government Salary In Just 2 Months - Yahoo Finance",
+            "event_type": "Investor Activity/Commentary",
+            "summary": "A political figure made significant profits from investing in NVIDIA.",
+            "impact": "Low",
+            "rationale": "This event highlights a personal financial gain but does not indicate an investment strategy that could affect NVIDIA's market position or stock price."
+        }
+    ]
+}
