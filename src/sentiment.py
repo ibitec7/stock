@@ -61,7 +61,7 @@ for file in file_paths:
             sentiment = sia.polarity_scores(text)
             article["sentiment_scores"] = sentiment
 
-        if article.get("finbert_sentiment") and article.get("embedding"):
+        if article.get("finbert_sentiment") and article.get("embedding") and article.get("cls_embedding"):
             continue
 
         else:
@@ -82,6 +82,9 @@ for file in file_paths:
 
             if not article.get("embedding"):
                 article["embedding"] = outputs.hidden_states[-1].detach().mean(dim=1).tolist()
+
+            if not article.get("cls_embedding"):
+                article["cls_embedding"] = outputs.hidden_states[-1][:, 0, :].detach().tolist()
 
     logging.info(f"Calculated sentiment scores and embeddings for {len(data['articles'])} articles")
 
