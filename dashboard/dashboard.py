@@ -10,7 +10,10 @@ import os
 import yfinance as yf
 from tab1 import tab_1
 from tab2 import tab_2
-from dashboard_helpers import load_sentiment, source_indicators
+from tab3 import tab_3
+from tab4 import tab_4
+from tab5 import tab_5
+from dashboard_helpers import load_master_news, source_indicators
 import logging
 
 
@@ -31,6 +34,15 @@ if os.path.exists(os.path.join(LOGS_DIR, 'dashboard.log')):
 logging.basicConfig(filename=os.path.join(LOGS_DIR, 'dashboard.log'),
                     level=logging.INFO,
                     format='%(asctime)s:%(levelname)s:%(message)s')
+
+def clear_market_data():
+    all_files = os.listdir(CACHE_DIR)
+    files_to_remove = [file for file in all_files if file.endswith('.parquet') and file != 'master_news.parquet']
+    for file in files_to_remove:
+        os.remove(os.path.join(CACHE_DIR, file))
+    logging.info("Market data cleared.")
+
+
 
 def main(period="5y"):
     timeframe = "1mo"
@@ -63,6 +75,8 @@ def main(period="5y"):
     This dashboard analyzes the relationship between NVIDIA stock price movements, technical indicators, 
     and news sentiment. It explores whether sentiment from news articles correlates with stock price changes.
     """)
+
+    st.button("Refresh Market Data", key="refresh_data", on_click=clear_market_data)
     
     # Initialize session state for tracking loaded data
     if 'data_loaded' not in st.session_state:
@@ -70,10 +84,10 @@ def main(period="5y"):
     
     # Load data
     with st.spinner("Loading sentiment data..."):
-        data_sentiment = load_sentiment(DATA_DIR, CACHE_DIR)
+        data_sentiment = load_master_news()
     
     with st.spinner("Loading indicators data..."):
-        data_indicators = source_indicators(period, CACHE_DIR, timeframe)
+        data_indicators = source_indicators(period, timeframe)
     
     with st.spinner("Loading company financials..."):
         data_financials = yf.Ticker("NVDA").financials
@@ -95,7 +109,7 @@ def main(period="5y"):
     
     if critical_data_loaded:
         st.session_state['data_loaded'] = True
-        st.success("Data loaded successfully!", icon="🔥")
+        st.success("Data loaded successfully!", icon="✅")
     else:
         st.warning("Some data could not be loaded. Please check the logs for more details.")
 
@@ -110,10 +124,17 @@ def main(period="5y"):
     with tab1:
         tab_1(timeframes=timeframes, CACHE_DIR=CACHE_DIR, periods=periods)
 
-    # with tab2:
-    #     tab_2(data_sentiment=data_sentiment, CACHE_DIR=CACHE_DIR)
+    with tab3:
+        tab_3()
 
+    with tab4:
+        tab_4()
+
+    with tab5:
+        tab_5()
         
+    with tab2:
+        tab_2(CACHE_DIR=CACHE_DIR)
 
 if __name__ == "__main__":
 
